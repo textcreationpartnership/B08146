@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tobacco battered; &amp; the pipes shattered (about their eares that idlely idolize so base &amp; barbarous a weed; or at least-wise ouer-loue so loathsome vanitie:) by a volley of holy shot thundered from Mount Helicon..</title>
+            <author>Sylvester, Josuah, 1563-1618.</author>
+         </titleStmt>
+         <extent>Approx. 96KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08146</idno><idno type="EEBO-CITATION">82475548</idno>
+  <idno type="VID">185188</idno>
+  <idno type="EEBO-PROQUEST">2240924995</idno>
+  <idno type="STC">STC 23582A</idno>
+  <idno type="STC">ESTC S123304</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B08146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185188)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2256:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tobacco battered; &amp; the pipes shattered (about their eares that idlely idolize so base &amp; barbarous a weed; or at least-wise ouer-loue so loathsome vanitie:) by a volley of holy shot thundered from Mount Helicon..</title>
+                  <author>Sylvester, Josuah, 1563-1618.</author>
+               </titleStmt>
+               <extent>[5], 82-116, [6], 119-132, [6], 137-142, [6], 147-158  p.   </extent>
+               <publicationStmt>
+                  <publisher>H. Lownes,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1616 or 1617]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to  J. Sylvester, by STC (2nd ed.).</note>
+                  <note>Imprint information from STC (2nd ed.).</note>
+                  <note>Signatures: F-I⁸ K⁴ L⁸.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+                  <note>Tobacco battered -- Simile non est idem -- A glimse [sic] of heavenly ioyes: or New Hierusalem -- Auto-machia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tobacco use --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:185188:1"/>
+                  <pb facs="tcp:185188:1"/>
+                  <p>TOBACCO BATTERED; &amp; THE PIPES <hi>SHATTERED</hi> (About their Eares <hi>that idlely Idolize</hi> so base &amp; barbarous a WEED; OR <hi>at least-Wise</hi> ouer-loue so loathsome <hi>VANITIE:</hi>) by <hi>A Volley of holy Shot</hi> Thundered <hi>From Mount</hi> HELICON.</p>
+               </div>
+               <div type="anagram">
+                  <pb facs="tcp:185188:2"/>
+                  <head>A Double Anagram,</head>
+                  <epigraph>
+                     <q>
+                        <l>George Viliers: Sir George Viliers,</l>
+                        <l>Re-giue glories: Glorie-giuers rise.</l>
+                     </q>
+                  </epigraph>
+                  <l>SIr, <hi>Re-giue glories: Glorie-giuers rise.</hi>
+                  </l>
+                  <l>How fits your happy <hi>Fate,</hi> your happy <hi>Name!</hi>
+                  </l>
+                  <l>Wherein, a <hi>Precept</hi> with a <hi>Promise</hi> lies,</l>
+                  <l>Presaging Good to grace-full <hi>BVCKINGHAM:</hi>
+                  </l>
+                  <l>For, be you Grate-full for your <hi>Dignities;</hi>
+                  </l>
+                  <l>
+                     <hi>GOD</hi> and the <hi>KING</hi> will still <hi>increase</hi> the same.</l>
+                  <l>
+                     <hi>GOD, while you honour Him,</hi> will <hi>honour</hi> You:</l>
+                  <l>The <hi>KING</hi> will <hi>fauour,</hi> while you <hi>serue</hi> Him, <hi>trew.</hi>
+                  </l>
+               </div>
+               <div type="dedicatory_verse_or_poem">
+                  <pb facs="tcp:185188:2"/>
+                  <head>To the right Honourable S<seg rend="sup">r</seg>. GEORGE VILIERS, K<seg rend="sup">t</seg>. <hi>Baron of Whaddon: L. Vicount Viliers:</hi> EARLE of BVCKINGHAM: Master of the Horse to his Ma<seg rend="sup">ty</seg>. &amp; <hi>Knight of the most Noble Order of the Garter,</hi> &amp;c.</head>
+                  <l>YOur Noble <hi>Order,</hi> and your hallowed <hi>Name,</hi>
+                  </l>
+                  <l>Your <hi>Soueraign's</hi> Fauor, &amp; your owne <hi>Profession,</hi>
+                  </l>
+                  <l>Promise Your <hi>Valour</hi> towards the <hi>Suppression</hi>
+                  </l>
+                  <l>Of <hi>Heathen</hi> Foes that <hi>Christian</hi> FAITH defame:</l>
+                  <l>Hence, here <hi>presume</hi> we (by the Trump of Fame)</l>
+                  <l>To call your <hi>Aide</hi> against the proud <hi>Oppression</hi>
+                  </l>
+                  <l>Of th' <hi>Infidel</hi> vsurping FAITH'S Possession,</l>
+                  <l>That <hi>Indian</hi> Tyrant, onely <hi>Englands</hi> Shame.</l>
+                  <l>Thousands of <hi>Ours</hi> here hath He Captiue taken,</l>
+                  <l>Of all Degrees, kept vnder slauish Yoak,</l>
+                  <l>Their <hi>God,</hi> their Good, <hi>King,</hi> Country, Friends forsaken</l>
+                  <l>To follow <hi>Follie</hi> and to feed on <hi>Smoake.</hi>
+                  </l>
+                  <l>Be GOD our <hi>Guide,</hi> S<seg rend="sup">t</seg>. GEORGE our <hi>Generall;</hi>
+                  </l>
+                  <l>VVee shall <hi>repell</hi> Him, and <hi>redeem</hi> Them All.</l>
+                  <closer>
+                     <signed>
+                        <hi>At Yo<seg rend="sup">r</seg>. Lo<seg rend="sup">ps</seg>. Command</hi> IS The humble Eccho of The MVSES.</signed>
+                  </closer>
+               </div>
+               <div type="prefatory_verse_or_poem">
+                  <pb facs="tcp:185188:3"/>
+                  <head>A Warning-Piece.</head>
+                  <lg>
+                     <l>RIght noble <hi>Nobles,</hi> Generous <hi>Gentlemen,</hi>
+                     </l>
+                     <l>Louers of <hi>Honor,</hi> and Your <hi>Countries</hi> Weal;</l>
+                     <l>You'l need no <hi>VVarning</hi> to auoid our <hi>Peal;</hi>
+                     </l>
+                     <l>Nor are in <hi>Leuel</hi> of our <hi>Poudered</hi> Pen:</l>
+                     <l>Nor <hi>Those</hi> that Yet will <hi>yeeld,</hi> and turne agen</l>
+                     <l>From th' <hi>Idol-Seruice</hi> of their <hi>Smoaky Zeal,</hi>
+                     </l>
+                     <l>To serue their <hi>GOD,</hi> their <hi>KING,</hi> their <hi>Cōmon-weale</hi>
+                     </l>
+                     <l>We shoot at <hi>Manners,</hi> we would saue the <hi>Men.</hi>
+                     </l>
+                     <l>But, Those <hi>rebellious</hi> that will still <hi>stand out</hi>
+                     </l>
+                     <l>Vnder the <hi>Standard</hi> of our Heathen Foe,</l>
+                     <l>With <hi>Pipe</hi> and <hi>Pudding</hi> rampir'd round about,</l>
+                     <l>
+                        <hi>Puffing</hi> &amp; <hi>Snuffing</hi> at their threatned <hi>VVoe;</hi>
+                     </l>
+                     <l>At such, our <hi>Canon</hi> shall Here <hi>thunder</hi> thick:</l>
+                     <l>
+                        <hi>Gunner,</hi> your Lin-stock, Come, <hi>giue Fier quick.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Tis best Praise-worthy, To haue pleas'd the Best:</hi>
+                     </l>
+                     <l>This Wee endeauour; and defie the rest.</l>
+                  </lg>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:185188:3"/>
+                  <head>TOBACCO BATTERED.</head>
+                  <lg>
+                     <l>WHAT-euer GOD <hi>created,</hi> first was <hi>good,</hi>
+                     </l>
+                     <l>And good for Man, while Man vprightly stood</l>
+                     <l>But, falling Angels causing Man to fall,</l>
+                     <l>His foule <hi>Contagion</hi> con-corrupted All</l>
+                     <l>His fellow-Creatures, for his Sinne accurst,</l>
+                     <l>And for his sake transformed from their First;</l>
+                     <l>Till GOD and MAN, Mans Leprie to re-cure,</l>
+                     <l>By Death kild <hi>Death,</hi> re-making <hi>All things</hi> pure:</l>
+                  </lg>
+                  <lg>
+                     <l>But, <hi>To the pure;</hi> not to the stil-Prophane,</l>
+                     <l>Who (Spider-like) turne Blessings into Bane;</l>
+                     <l>Vsurping (right-les, thank-les-need-les) heer,</l>
+                     <l>In wanton, wilfull, wastefull, lustfull Cheer,</l>
+                     <l>Earths plentious Crop, which GOD hath onely giuen</l>
+                     <l>Vnto his Owne, (Heires both of Earth and Heauen)</l>
+                     <l>Who onely (rightly) may with <hi>Praise</hi> and <hi>Prayer,</hi>
+                     </l>
+                     <l>Enioy th'increase of Earth, of Sea, and Ayre,</l>
+                     <l>Fowle, Fish, and Flesh, Gems, Metalls, Cattell, Plants;</l>
+                     <l>And namely, (That which now no <hi>Ingle</hi> wants)</l>
+                     <l>Indian TOBACCO, when due cause requires;</l>
+                     <l>Not the drie <hi>Dropsie</hi> of <hi>Phantasticke</hi> Squires.</l>
+                  </lg>
+                  <lg>
+                     <pb n="82" facs="tcp:185188:4"/>
+                     <l>None therefore deeme that I am now to learne</l>
+                     <l>(How euer dim I many things discerne)</l>
+                     <l>Reason and Season, to distinguish fit</l>
+                     <l>Th'<hi>Vse</hi> of a thing, from the <hi>Abuse</hi> of it;</l>
+                     <l>
+                        <hi>Drinking,</hi> from <hi>drunking, Saccharum cum Sacco;</hi>
+                     </l>
+                     <l>And <hi>taking of,</hi> from <hi>taking all TOBACCO.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Yet out of high Disdaine and Indignation,</l>
+                     <l>Of that sterne Tyrant's strangest Vsurpation,</l>
+                     <l>Once, demi-Captiue to his <hi>puffing Pride,</hi>
+                     </l>
+                     <l>(As millions are, too-wilfull foolifi'd)</l>
+                     <l>Needs must I band against the <hi>need-lesse Vse</hi>
+                     </l>
+                     <l>Of Don TOBACCO, and his <hi>foule Abuse:</hi>
+                     </l>
+                     <l>Which (though in <hi>Inde</hi> it be an Herbe indeed)</l>
+                     <l>In <hi>Europe,</hi> is no better then a Weed;</l>
+                     <l>Which to their <hi>Idols Pagans</hi> sacrifize,</l>
+                     <l>And <hi>Christians</hi> (heer) doe wel-nigh <hi>Idolize:</hi>
+                     </l>
+                     <l>Which taking, <hi>Heathens</hi> to the Diuels bow</l>
+                     <l>Their Bodies; <hi>Christians,</hi> euen their Soules do vow.</l>
+                     <l>Yet th' <hi>Heathen</hi> haue, with th'<hi>Ill,</hi> some <hi>Good</hi> withall;</l>
+                     <l>Sith, Their <hi>con-natiue,</hi> 'tis <hi>con-natural.</hi>
+                     </l>
+                     <l>But, see the nature of abounding Sinne,</l>
+                     <l>Which more abounding Punishment doth winne</l>
+                     <l>For <hi>knowing</hi> Seruants wilfull Arrogance,</l>
+                     <l>Then <hi>filly</hi> Strangers sauage Ignorance.</l>
+                     <pb n="83" facs="tcp:185188:4"/>
+                     <l>For, what to Them is Meat and Med'cinable,</l>
+                     <l>Is turn'd to Vs a Plague intollerable.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Two smoakie Engines,</hi> in this latter Age</l>
+                     <l>(<hi>Sathans</hi> short Circuit; the more sharp his rage)</l>
+                     <l>Haue beene inuented by too-vanted Wit,</l>
+                     <l>Or rather, vented from th'<hi>Infernal Pit,</hi>
+                     </l>
+                     <l>GVNS &amp; TOBACCO-PIPES, with Fire and <hi>Smoak,</hi>
+                     </l>
+                     <l>(At least) a Third part of Mankind to <hi>choak:</hi>
+                     </l>
+                     <l>(Which, happely,<note n="*" place="margin">9. 17.</note> th' <hi>Apocalyps</hi> fore-told)</l>
+                     <l>Yet of the <hi>Two,</hi> We may (thinke I) be bold,</l>
+                     <l>In some respects, to thinke the Last, the Worst,</l>
+                     <l>(How-euer Both in their Effects accurst.)</l>
+                     <l>For, <hi>Gunns</hi> shoot <hi>from-ward,</hi> onely at their Foen;</l>
+                     <l>
+                        <hi>Tobacco-Pipes, home-ward,</hi> into their Owne</l>
+                     <l>(When, for the Touch-hole, firing the wrong end,</l>
+                     <l>Into our Selues the Poysons force we send:)</l>
+                     <l>Those, in the Field, in braue and hostile manner;</l>
+                     <l>These, Cowardly, vnder a Couert Banner:</l>
+                     <l>Those, with Defiance, in a Threatfull Terror;</l>
+                     <l>These, with Affiance, in a Wilfull Error:</l>
+                     <l>Those, (though loud-roaring, goaring-deep) quick-ridding;</l>
+                     <l>These, stilly stealing, longer Languors breeding:</l>
+                     <l>Those, full of pain (perhaps) and fell despight:</l>
+                     <l>These, with false Pleasure, and a seem-delight</l>
+                     <pb n="84" facs="tcp:185188:5"/>
+                     <l>(As Cats with Mice, Spiders with Flies) full rife</l>
+                     <l>Pipe-playing, dallying, &amp; deluding Life.</l>
+                  </lg>
+                  <lg>
+                     <l>Who would not wonder, in these Sunny-Dayes</l>
+                     <l>(So bright illightned with the GOSPEL's Rayes)</l>
+                     <l>Whence so-much <hi>Smoak,</hi> &amp; deadly Vapors come,</l>
+                     <l>To dim &amp; damne so much of <hi>Christendome?</hi>
+                     </l>
+                     <l>But, wee must ponder too, These Dayes are Those</l>
+                     <l>Wherein the Diuell was to be let lose;</l>
+                     <l>And Yawning broad Gate of that black <hi>Abysse</hi>
+                     </l>
+                     <l>To bee set ope, whose Bottome bound-les is;</l>
+                     <l>That <hi>Sathan,</hi> destin'd, euermore to dwell</l>
+                     <l>In <hi>Smoakie</hi> Fornace of that <hi>darkesome</hi> Cell,</l>
+                     <l>In <hi>Smoak</hi> &amp; <hi>Darknes</hi> might inure &amp; train</l>
+                     <l>His Owne deere Minions, while they heer remain;</l>
+                     <l>As roaguing <hi>Gypsies,</hi> tan their little Elves,</l>
+                     <l>To make them tann'd and oughe, like them Selves.</l>
+                  </lg>
+                  <lg>
+                     <l>Then, in Despight, who-ever dare say Nay,</l>
+                     <l>TOBACCONISTS, keep-on your Course: You may,</l>
+                     <l>If you continew in your <hi>Smoakie</hi> Vre,</l>
+                     <l>The better fat Hell's sulphurie <hi>Smoak</hi> indure;</l>
+                     <l>And heerin (as in All your other Euill)</l>
+                     <l>Grow neerer still and liker to the Diuell:</l>
+                     <l>Saue that the Diuell (if hee could re-voke)</l>
+                     <l>Would fly from filthy &amp; vnhealthy <hi>Smoak;</hi>
+                     </l>
+                     <pb n="85" facs="tcp:185188:5"/>
+                     <l>Wherein (cast out of Heauen for hellish Pride)</l>
+                     <l>Vn-willing Hee, and Forced doth abide:</l>
+                     <l>Which, heerin worse than Hee (the worst of Ill)</l>
+                     <l>You long-for, lust-for, lie-for, die-for still:</l>
+                     <l>For as the <hi>Salamander</hi> liues in Fire,</l>
+                     <l>You liue in <hi>Smoake;</hi> and with-out <hi>Smoake</hi> expire.</l>
+                  </lg>
+                  <lg>
+                     <l>SHould it be question'd (as right well it may)</l>
+                     <l>Whether Discouerie of <hi>AMERICA,</hi>
+                     </l>
+                     <l>That <hi>New-found World,</hi> haue yeelded to our Ould</l>
+                     <l>More Hurt or Good: Till fuller Answer should</l>
+                     <l>Decide the Doubt and quite determine it,</l>
+                     <l>Thus for the present might we answer fit:</l>
+                     <l>That Thereby Wee haue (rightly vnderstood)</l>
+                     <l>Both giuen and taken greater Hurt then Good:</l>
+                     <l>And that on both sides, both for <hi>Christians</hi>
+                     </l>
+                     <l>It had been better, and for <hi>Indians,</hi>
+                     </l>
+                     <l>That onely Good men to their Coast had come,</l>
+                     <l>Or, that the Euill had still staid at home.</l>
+                  </lg>
+                  <lg>
+                     <l>For, what our People haue brought Thence to vs,</l>
+                     <l>Is like the Head-peece of a <hi>Polypus,</hi>
+                     </l>
+                     <l>Wherein is (quoted, by sage <hi>Plutarch's</hi> Quill)</l>
+                     <l>
+                        <hi>A Pest'lence great good, and great Pest'lence ill.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Wee had from Them, first, to augment our Stocks.</l>
+                     <l>Two grand Diseases, <hi>Scuruie</hi> and <hi>The Rocks:</hi>
+                     </l>
+                     <pb n="86" facs="tcp:185188:6"/>
+                     <l>Then, <hi>Two</hi> great <hi>Cordials</hi> (for a Counterpeize)</l>
+                     <l>
+                        <hi>Gold</hi> and TOBACCO; both which, many waies,</l>
+                     <l>Haue done more Mischief than the former Twaine;</l>
+                     <l>And All together brought more Losse then Gain.</l>
+                  </lg>
+                  <lg>
+                     <l>But, true it is, we had this Trash of Theirs,</l>
+                     <l>Onely in Barter, for our broken Wares.</l>
+                     <l>Ours, for the most part, caried out but Sin;</l>
+                     <l>And, for the most part, brought but Vengeance, in:</l>
+                     <l>Their Fraight was <hi>Sloth, Lust, Auarice,</hi> &amp; <hi>Drink</hi>
+                     </l>
+                     <l>(A Burthen, able with the Waight, to sink</l>
+                     <l>The hugest Carrak; yea, those hallowed <hi>Twelue,</hi>
+                     </l>
+                     <l>
+                        <hi>Spains</hi> great <hi>Apostles</hi> euen to ouer-whelue)</l>
+                     <l>They caried <hi>Sloath,</hi> &amp; brought home <hi>Skuruy-skin,</hi>
+                     </l>
+                     <l>They caried <hi>Lust,</hi> and brought home <hi>Pocks</hi> within:</l>
+                     <l>They caried <hi>Auarice,</hi> and <hi>Gold</hi> they got:</l>
+                     <l>They caried <hi>Bacchus,</hi> &amp; TOBACCO brought.</l>
+                     <l>Alas, poore <hi>Indians!</hi> that but <hi>English,</hi> None</l>
+                     <l>Could put them downe in their owne Trade alone!</l>
+                     <l>That none, but <hi>English</hi> (more Alas! more strange!)</l>
+                     <l>Could iustifie their pitifull Exchange.</l>
+                  </lg>
+                  <lg>
+                     <l>Of All the Plants that <hi>Tellus</hi> bosome yeelds,</l>
+                     <l>In Groues, Glades, Gardens, Marshes, Mountains, Fields,</l>
+                     <l>None so pernitious to Mans Life is knowne,</l>
+                     <l>As is TOBACCO, sauing HEMP alone.</l>
+                     <pb n="87" facs="tcp:185188:6"/>
+                     <l>Betwixt which Two there seemes great Sympathy,</l>
+                     <l>To ruinate poore <hi>Adam's</hi> Progeny:</l>
+                     <l>For, in them Both a <hi>strangling</hi> vertue note,</l>
+                     <l>And Both of them doo worke vpon the Throte,</l>
+                     <l>The one, within it; and without, the other;</l>
+                     <l>And th'one prepareth Worke vnto the tother.</l>
+                     <l>For, There doo meet (I mean at <hi>Gayle</hi> &amp; <hi>Gallowes</hi>)</l>
+                     <l>More of these beastly, base TOBACCO-Fellowes,</l>
+                     <l>Then else to any prophane Haunt doo vse,</l>
+                     <l>(Excepting stil <hi>The Play-house</hi> and <hi>The Stewes</hi>)</l>
+                     <l>Sith 'tis Their common Lot, (so double-choaked)</l>
+                     <l>Iust, bacon-like, to be <hi>hangd vp,</hi> and <hi>smoaked:</hi>
+                     </l>
+                     <l>A Destinie, as proper to befall</l>
+                     <l>To morall Swine, as to Swine naturall.</l>
+                  </lg>
+                  <lg>
+                     <l>If there be any <hi>Herbe,</hi> in any place,</l>
+                     <l>Most opposite to GOD's good <hi>Herb-of-grace,</hi>
+                     </l>
+                     <l>'Tis doubt-les This: and this doeth plainly proue-it,</l>
+                     <l>That, for the most, most <hi>grace-les</hi> men doo loue-it,</l>
+                     <l>Or rather, doat most on this <hi>wither'd Weed,</hi>
+                     </l>
+                     <l>Them Selues as <hi>wither'd</hi> in all <hi>gracious Deed.</hi>
+                     </l>
+                     <l>'Tis strange to see, (and vnto me, a Wonder)</l>
+                     <l>When the prodigious strange Abuse we ponder,</l>
+                     <l>Of this vnruly, rustie <hi>Vegetal;</hi>
+                     </l>
+                     <l>From moderne <hi>Symmists Iesu-Critical,</hi>
+                     </l>
+                     <pb n="88" facs="tcp:185188:7"/>
+                     <l>(Carping at Vs, and casting in our Dish,</l>
+                     <l>Not Crimes, but Crums: as eating Flesh for Fish:)</l>
+                     <l>W'hear in This Case, no Conscience-Cases holier.</l>
+                     <l>But, <hi>like to like; The Diuell with the Collier.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>For, a TOBACCONIST (I dare auer)</l>
+                     <l>Is, first of all, a rank <hi>Idolater,</hi>
+                     </l>
+                     <l>As any of th' <hi>Ignation Hierarchie:</hi>
+                     </l>
+                     <l>Next, as conformed to Their Fopperie,</l>
+                     <l>
+                        <hi>Of burning Day-light, and Good-night at Noone,</hi>
+                     </l>
+                     <l>Setting vp <hi>Candles</hi> to enlight the Sun:</l>
+                     <l>And last, the Kingdome of NEVV-BABYLON</l>
+                     <l>Stands in a <hi>Darke</hi> and <hi>Smoakie</hi> Region;</l>
+                     <l>So full of such varietie of <hi>Smoaks,</hi>
+                     </l>
+                     <l>That there-with all all <hi>Pietie</hi> it choakes.</l>
+                  </lg>
+                  <lg>
+                     <l>For, There is, First, the <hi>Smoake</hi> of Ignorance,</l>
+                     <l>The <hi>Smoake</hi> of Error, <hi>Smoake</hi> of Arrogance,</l>
+                     <l>The <hi>Smoake</hi> of Merit super-er'gatorie,</l>
+                     <l>The <hi>Smoak</hi> of <hi>Pardons Smoaks</hi> of PVRGATORIE</l>
+                     <l>The <hi>Smoake</hi> of Censing <hi>Smoake</hi> of <hi>Thurifying</hi>
+                     </l>
+                     <l>Of Images, of <hi>Sathan's Furie-flying,</hi>
+                     </l>
+                     <l>The <hi>Smoake</hi> of Stewes (for <hi>Smoaking</hi> thence they come,</l>
+                     <l>As horrid hot as torrid <hi>Sodome,</hi> some):</l>
+                     <l>Then, <hi>Smoake</hi> of POVDER-TREASON, <hi>Pistols, Kniues,</hi>
+                     </l>
+                     <l>To blow-vp Kingdomes, and blow-out <hi>Kings</hi> Liues;</l>
+                     <pb n="89" facs="tcp:185188:7"/>
+                     <l>And lastly, too, TOBACCO's <hi>Smoakie</hi>-Mists,</l>
+                     <l>Which (comming from <hi>Iberian</hi> BAALISTS)</l>
+                     <l>No small addition of Adustion fit</l>
+                     <l>Bring to the <hi>Smoake</hi> of the <hi>Vnbottom'd</hi> PIT,</l>
+                     <l>Yerst opened, first, (<hi>as openeth Saint</hi> IOHN)</l>
+                     <l>By their ABADDON &amp; APOLLYON.</l>
+                  </lg>
+                  <lg>
+                     <l>But, sith They are contented to admire</l>
+                     <l>What They dislike not, if they not desire</l>
+                     <l>(For, with good reason may wee ghesse that They</l>
+                     <l>Who swallow Camels, swallow Gnatlings may);</l>
+                     <l>Tis ground enough for vs, in this Dispute,</l>
+                     <l>Their <hi>Vanities,</hi> thus obuious, to refute</l>
+                     <l>(Their <hi>Vanities, mysterious Mists of</hi> ROME,</l>
+                     <l>Which haue so long be <hi>smoaked</hi> CHRISTENDOM).</l>
+                  </lg>
+                  <lg>
+                     <l>And for the rest, it shall suffice, to say,</l>
+                     <l>TOBACCONING is but a <hi>Smoakie</hi> Play.</l>
+                     <l>Strong Arguments against so weake a thing,</l>
+                     <l>Were need-less, or vnsuitable, to bring.</l>
+                     <l>In this behalfe there needs no more be done,</l>
+                     <l>Sith of it Selfe the same will vanish soone:</l>
+                     <l>T' euaporate <hi>This Smoake,</hi> it is enough</l>
+                     <l>But with a Breath the same aside to puffe.</l>
+                  </lg>
+                  <lg>
+                     <l>NOw, My First Puffe shall but repell th'ill-Sauour</l>
+                     <l>Of Place &amp; Persons (of debaucht behauiour)</l>
+                     <pb n="90" facs="tcp:185188:8"/>
+                     <l>Where 'tis most frequent: Second, shew you will,</l>
+                     <l>How little <hi>Good</hi> it dooth: Third, how great <hi>Ill.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>'Tis vented most in Tauerns, Tippling-cots,</l>
+                     <l>To Ruffians, Roarers, Tipsie-Tostie-Pots;</l>
+                     <l>Whose Custome is, betweene the <hi>Pipe</hi> and <hi>Pot,</hi>
+                     </l>
+                     <l>(Th'one Cold and Moist, the other Dry and Hot)</l>
+                     <l>To skirmish so (like Sword-and-Dagger-fight)</l>
+                     <l>That 'tis not easie to determine right,</l>
+                     <l>Which of their weapons hath the Conquest got</l>
+                     <l>Ouer their Wits; the <hi>Pipe,</hi> or else the <hi>Pot.</hi>
+                     </l>
+                     <l>Yet, 'tis apparant, and by proofe expresse,</l>
+                     <l>Both stab and wound the Braine with <hi>Drunkennesse:</hi>
+                     </l>
+                     <l>For, euen the <hi>Deriuation</hi> of the <hi>Name,</hi>
+                     </l>
+                     <l>Seemes to allude and to include the same:</l>
+                     <l>TOBACCO, as <gap reason="foreign" resp="#oxf">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, one would say;</l>
+                     <l>To (Cup-god) BACCHVS <hi>dedicated aye.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>And, for Conclusion of this Point, obserue,</l>
+                     <l>The Places which to these <hi>Abuses</hi> serue,</l>
+                     <l>How-euer, of them Selues, noisome ynough,</l>
+                     <l>Are much more loathsom with the stench &amp; stuffe,</l>
+                     <l>Extracted from their <hi>limbeckt</hi> Lips and Nose.</l>
+                     <l>So that, the Houses, common Haunts of Those,</l>
+                     <l>Are liker Hell then Heau'n: for Hell hath <hi>Smoake;</hi>
+                     </l>
+                     <l>
+                        <hi>Impenitent</hi> TOBACCONISTS to choake,</l>
+                     <pb n="91" facs="tcp:185188:8"/>
+                     <l>Though neuer dead: There shall they haue their Fill:</l>
+                     <l>In Heau'n is none, but Light and Glory still.</l>
+                  </lg>
+                  <lg>
+                     <l>Next: Multitudes them daily, howrely drowne</l>
+                     <l>In this black Sea <hi>of Smoak,</hi> tost vp and downe</l>
+                     <l>In This vast <hi>Ocean,</hi> of such <hi>Latitude,</hi>
+                     </l>
+                     <l>That <hi>Europe</hi> onely cannot all include,</l>
+                     <l>But out it rushes, ouer-runns the Whole,</l>
+                     <l>And reaches, wel-nigh round, from <hi>Pole</hi> to <hi>Pole;</hi>
+                     </l>
+                     <l>Among the <hi>Moores, Turks, Tartars, Persians,</hi>
+                     </l>
+                     <l>And other <hi>Ethnicks</hi> (full of Ignorance</l>
+                     <l>Of GOD and <hi>Good:</hi>) and, if wee shall look home,</l>
+                     <l>To view (and rew) the State of CHRISTENDOME,</l>
+                     <l>Vpon This Point, we may This <hi>Riddle</hi> bring;</l>
+                     <l>
+                        <hi>The Subiect hath more Subiects than the King.</hi>
+                     </l>
+                     <l>For, Don TOBACCO hath an ampler Raign,</l>
+                     <l>Than Don PHILIPPO, the Great <hi>King of Spain,</hi>
+                     </l>
+                     <l>(In whose Dominions, for the most, it growes).</l>
+                     <l>Nay, shall I say, (O Horror, to suppose!)</l>
+                     <l>
+                        <hi>Heath'nish</hi> TOBACCO (almost euery where)</l>
+                     <l>In <hi>Christendome</hi> (CHRISTS <hi>out-ward Kingdom</hi> here)</l>
+                     <l>Hath more <hi>Disciples</hi> than CHRIST hath (I feare)</l>
+                     <l>More Suite, more Seruice (Bodies, Souls, &amp; Good)</l>
+                     <l>Than CHRIST, that bought vs with his precious Blood.</l>
+                     <pb n="92" facs="tcp:185188:9"/>
+                     <l>O Great TOBACCO! Greater than Great <hi>Can,</hi>
+                     </l>
+                     <l>Great <hi>Turk,</hi> Great <hi>Tartar,</hi> or Great <hi>Tamberlan!</hi>
+                     </l>
+                     <l>With Vulturs wings Thou hast (and swifter yet</l>
+                     <l>Than an <hi>Hungarian Ague, English Sweat</hi>)</l>
+                     <l>Through all Degrees, flown, far, nigh; vp &amp; down;</l>
+                     <l>From Court to Cart; frō <hi>Count</hi> to Country Clown,</l>
+                     <l>Not scorning <hi>Scullions, Coblers, Colliers,</hi>
+                     </l>
+                     <l>
+                        <hi>Iakes-farmers, Fidlers, Ostlers, Oysterers,</hi>
+                     </l>
+                     <l>
+                        <hi>Rogues, Gypses, Players, Pandars, Punks,</hi> and All</l>
+                     <l>What <hi>common Scums</hi> in <hi>Common-Sewers</hi> fall.</l>
+                     <l>For, all, as <hi>Vassals,</hi> at Thy Beck are bent,</l>
+                     <l>And breathe by Thee, as their <hi>new Element.</hi>
+                     </l>
+                     <l>Which well may proue Thy <hi>Monarchy</hi> the Greater,</l>
+                     <l>Yet proue not Thee to be a whit the Better;</l>
+                     <l>But rather Worse: For <hi>Hell's</hi> wide-open Road</l>
+                     <l>Is easiest found, and by the Most still troad.</l>
+                     <l>Which, euen the <hi>Heathen</hi> had the Light to know</l>
+                     <l>By Arguments, as many times they show.</l>
+                  </lg>
+                  <lg>
+                     <l>Heer may wee also gather (for a need)</l>
+                     <l>Whether TOBACCO be an <hi>Herb</hi> or <hi>Weed:</hi>
+                     </l>
+                     <l>And Whether the excessiue Vse be fit,</l>
+                     <l>Or good or bad; by those that fauour it,</l>
+                     <l>
+                        <hi>Weeds,</hi> wild and wicked, mostly entertain it:</l>
+                     <l>
+                        <hi>Herbes,</hi> holesom <hi>Herbes,</hi> and holy minds disdain it.</l>
+                  </lg>
+                  <lg>
+                     <pb n="93" facs="tcp:185188:9"/>
+                     <l>If then, TOBACCONING be good: How is't,</l>
+                     <l>That lewdest, loosest basest, foolishest,</l>
+                     <l>The most vnthrifty, most intemperate,</l>
+                     <l>Most vicious, most debauscht, most desperate,</l>
+                     <l>Pursue it most: The Wisest and the Best</l>
+                     <l>Abhor it, shun it flie it, as the Pest,</l>
+                     <l>Or piercing Poyson of a Dragons Whisk,</l>
+                     <l>Or deadly Eye-shot of a Basilisk?</l>
+                  </lg>
+                  <lg>
+                     <l>If <hi>Wisedome</hi> baulk it, must it not be <hi>Folly?</hi>
+                     </l>
+                     <l>If <hi>Vertue</hi> hate it, is it not vnholy?</l>
+                     <l>If Men of Worth, and Minds right <hi>generous</hi>
+                     </l>
+                     <l>Discard it, scorne it: is't not <hi>scandalous?</hi>
+                     </l>
+                     <l>And (to conclude) is it not, to the Diuell</l>
+                     <l>Most pleasing; pleasing so (most) the most Euill.</l>
+                  </lg>
+                  <lg>
+                     <l>MY second <hi>Puffe,</hi> is Proof <hi>How little Good</hi>
+                     </l>
+                     <l>This <hi>Smoak</hi> hath done (that euer heare I cou'd)</l>
+                     <l>For, first, there's none that takes TOBACCO most,</l>
+                     <l>Most vsually, most earnestly, can boast</l>
+                     <l>That the excessiue and continuall vse</l>
+                     <l>Of This <hi>dry Suck-at</hi> euer did produce</l>
+                     <l>Him any Good, Ciuill, or Naturall,</l>
+                     <l>Or Morall Good, or Artificiall:</l>
+                     <l>Vnlesse perhaps they will alleadge it, drawes</l>
+                     <l>Away the Ill which still it Selfe doth cause.</l>
+                     <pb n="94" facs="tcp:185188:10"/>
+                     <l>Which Course (me thinks) I cannot liken better,</l>
+                     <l>Then to an <hi>Vsurer's</hi> Kindnesse to his <hi>Debter;</hi>
+                     </l>
+                     <l>Who, vnder Shew <hi>of Lending,</hi> stil substracts</l>
+                     <l>The <hi>Debters</hi> Owne, and then His owne exacts;</l>
+                     <l>Til at the last he vtterly confound-him,</l>
+                     <l>Or leaue him Worse &amp; Weaker then he found-him.</l>
+                  </lg>
+                  <lg>
+                     <l>Next, if the Custome of TOBACCONING</l>
+                     <l>Yeeld th'Vsers any <hi>Good,</hi> in any thing;</l>
+                     <l>Either they <hi>haue it,</hi> or they <hi>hope</hi> it prest:</l>
+                     <l>(By proofe and practice, taking stil the best)</l>
+                     <l>For, none but Fooles wil thē to Ought be slaue,</l>
+                     <l>Whence Benefit they neither <hi>hope,</hi> nor <hi>haue:</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Therfore, yet farther (as a <hi>Questionist</hi>)</l>
+                     <l>I must inquire of my TOBACCONIST,</l>
+                     <l>Why, if a <hi>Christian</hi> (as some, sometimes seeme)</l>
+                     <l>Belieuing GOD, waiting all <hi>Good</hi> from Him,</l>
+                     <l>And vnto Him all <hi>Good</hi> again referring;</l>
+                     <l>Why (to eschew th'Vngodly's <hi>Grace-les</hi> erring)</l>
+                     <l>Why pray they not? Why <hi>praise</hi> they not His Name</l>
+                     <l>For <hi>hoped Good,</hi> &amp; <hi>Good had</hi> by this Same?</l>
+                     <l>As all men doo, or ought to doo, for All</l>
+                     <l>The Gifts &amp; <hi>Goods</hi> that from His GOODNES fall.</l>
+                     <l>Is't not, because they neither <hi>hope,</hi> nor <hi>haue,</hi>
+                     </l>
+                     <l>
+                        <hi>Good (Hence) to thank</hi> GOD for, nor farther <hi>craue:</hi>
+                     </l>
+                     <pb n="95" facs="tcp:185188:10"/>
+                     <l>But, as they had it from the <hi>Heathen,</hi> first;</l>
+                     <l>So <hi>Heath'nishly</hi> they vse it still, accurst:</l>
+                     <l>And (as some iest <hi>of Oysters</hi>) This is more</l>
+                     <l>
+                        <hi>Vngodly Meat,</hi> both <hi>After</hi> and <hi>Before.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Lastly, if all Delights of all Mankind</l>
+                     <l>Be <hi>Vanitie, Vexation</hi> of the Mind;</l>
+                     <l>All vnder Sunne: Must not TOBACCO be,</l>
+                     <l>
+                        <hi>Of Vanities,</hi> the vainest <hi>Vanitie?</hi>
+                     </l>
+                     <l>
+                        <hi>If Salomon,</hi> the Wisest earthly Prince,</l>
+                     <l>That euer was before, or hath bin since;</l>
+                     <l>Knowing All Plants, and them perusing All,</l>
+                     <l>From <hi>Cedar</hi> to the <hi>Hyssop</hi> on the Wal;</l>
+                     <l>In none of all professeth, that he found</l>
+                     <l>A firme Content, or Consolation sound:</l>
+                     <l>Can We suppose that any Shallowling</l>
+                     <l>Can find <hi>much Good</hi> in oft-TOBACCONING?</l>
+                  </lg>
+                  <lg>
+                     <l>MY Third &amp; last <hi>Puffe,</hi> points at the <hi>Great Euil</hi>
+                     </l>
+                     <l>This noisom <hi>Vapor</hi> works (through wily diuel).</l>
+                     <l>If we may iudge; if Knowledge may be had</l>
+                     <l>By their Effects, how things be <hi>good</hi> or <hi>bad;</hi>
+                     </l>
+                     <l>Doubt-les, th'Effects of This pernitious <hi>Weed</hi>
+                     </l>
+                     <l>Be many <hi>bad,</hi> scarce any <hi>good,</hi> indeed:</l>
+                     <l>Nor dooth a Man scarce any <hi>Good</hi> contain,</l>
+                     <l>But of This <hi>Euill</hi> iustly may complain;</l>
+                     <pb n="96" facs="tcp:185188:11"/>
+                     <l>As thereby, made in euery Part the Worse,</l>
+                     <l>In Body, Soule, in Credit, and in Purse.</l>
+                  </lg>
+                  <lg>
+                     <l>FOr, first of all, it falls on his <hi>Good-name;</hi>
+                     </l>
+                     <l>And so be-smears, and so <hi>be smoaks</hi> the same,</l>
+                     <l>That neuer after scarce discerned is't.</l>
+                     <l>Rare <hi>good Report</hi> of a TOBACCONIST:</l>
+                     <l>Where, if to take it, were a vertuous thing,</l>
+                     <l>'Twould to the Taker's Commendation bring;</l>
+                     <l>And somwhat grace them (thogh they els were bad)</l>
+                     <l>Or hide, a little, the Defects they had:</l>
+                     <l>But, from their Credit rather it abates,</l>
+                     <l>And their Disgraces rather aggravates:</l>
+                     <l>And how-much better that they were before,</l>
+                     <l>It stinks the worse, &amp; stains their Name the more.</l>
+                  </lg>
+                  <lg>
+                     <l>For, if a Swearer, or a Swaggerer,</l>
+                     <l>A Drunkard, Dicer, or Adulterer,</l>
+                     <l>Proue a TOBACCONIST, it is not much:</l>
+                     <l>Tis sutable, 'tis well-beseeming Such;</l>
+                     <l>(No lesse than flaring, garish, whorish Tire,</l>
+                     <l>Which now-adayes most <hi>Mad-dames</hi> most desire:</l>
+                     <l>Owle-fac't <hi>Chaprones,</hi> Cheeks <hi>painted, Izland</hi> Tresse,</l>
+                     <l>Bum <hi>Bosse</hi>-about, with <hi>broad deep-naked</hi> Brests;</l>
+                     <l>Borrowed &amp; brought from loose <hi>Venetians,</hi>
+                     </l>
+                     <l>Becomes <hi>Pickt-hatch</hi> &amp; <hi>Shorditch Courtizans).</hi>
+                     </l>
+                     <pb n="97" facs="tcp:185188:11"/>
+                     <l>Not that TOBACCONING is not amisse:</l>
+                     <l>But that the bright Noon of their better Vice,</l>
+                     <l>Spred farr &amp; wide, doth darken and put downe</l>
+                     <l>TOBACCO-<hi>taking,</hi> and it's Twilight drowne.</l>
+                  </lg>
+                  <lg>
+                     <l>But, let it be of any truely sayd,</l>
+                     <l>Hee's <hi>great, religious, learned, wise,</hi> or <hi>stayd;</hi>
+                     </l>
+                     <l>But, hee is lately turn'd TOBACCONIST:</l>
+                     <l>O! what a Blurr! What an Abatement is't!</l>
+                     <l>'Tis like a handfull fom <hi>Augaeus</hi> Stable,</l>
+                     <l>Cast in the Face of <hi>Beawties</hi> fairest Table.</l>
+                     <l>Whence it appeares, This too-too to frequent,</l>
+                     <l>It is not <hi>good;</hi> no, not <hi>indifferent.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>It best becomes a <hi>Stage,</hi> or else a <hi>Stewes,</hi>
+                     </l>
+                     <l>Or <hi>Dicing-house,</hi> where All Disorders vse.</l>
+                     <l>It ill beseems a <hi>Church, Colledge,</hi> or <hi>Court,</hi>
+                     </l>
+                     <l>Or any Place of any Ciuill sort:</l>
+                     <l>It fits Blasphemers, Ruffians, Atheists,</l>
+                     <l>Damn'd <hi>Libertines,</hi> to be TOBACCONISTS:</l>
+                     <l>Not <hi>Magistrates,</hi> not <hi>Ministers,</hi> not <hi>Schollers</hi>
+                     </l>
+                     <l>(Who are, or should be Sinnes seuere Comptrollers)</l>
+                     <l>Nor any wise and sober personage,</l>
+                     <l>Of Grauitie, of <hi>Honestie,</hi> of Age.</l>
+                  </lg>
+                  <lg>
+                     <l>It were the fittest Furniture (that may)</l>
+                     <l>For Diuell, in a Picture, or a Play,</l>
+                     <pb n="98" facs="tcp:185188:12"/>
+                     <l>To represent him with a fierie Face,</l>
+                     <l>His Mouth &amp; Nostrils puffing <hi>Smoak</hi> apace,</l>
+                     <l>With staring Eyes, and in his griezly Gripe,</l>
+                     <l>An ouer-grown, great, long TOBACCO-<hi>Pipe.</hi>
+                     </l>
+                     <l>Which sure (me thinks) the most TOBACCONIST</l>
+                     <l>Must needs approue, and euen applaud the Iest:</l>
+                     <l>But much more <hi>Christians</hi> hence obserue, how euill</l>
+                     <l>It them becomes, that so becomes the Deuill.</l>
+                     <l>And therfore, think This <hi>Weed,</hi> a <hi>Drugge</hi> for <hi>Iewes</hi>
+                     </l>
+                     <l>More fit by far, [who did so foule abuse</l>
+                     <l>(Base rheumy Rascals) with their Spawlings base</l>
+                     <l>Our louing SAVIOVRS louely-reuerend Face,</l>
+                     <l>Whom (wilful-blind, stiffe-necked, stupifi'd)</l>
+                     <l>They spet on, scorned, scourged, <hi>Crucifi'd</hi>]</l>
+                     <l>Than for vs <hi>Christians,</hi> who His Name adore,</l>
+                     <l>Whom by His <hi>Death</hi> he doth to <hi>Life</hi> restore.</l>
+                  </lg>
+                  <lg>
+                     <l>If, notwithstanding All that hath bin said,</l>
+                     <l>TOBACCONISTS will still hold on their Trade,</l>
+                     <l>And by their Practice still hold vp their Name,</l>
+                     <l>Though <hi>Iewes,</hi> though <hi>Diuels,</hi> better suite the same;</l>
+                     <l>I'le say no more but only This, of This:</l>
+                     <l>Henceforth, let none whose meaner Lot it is</l>
+                     <l>To liue in <hi>Smoak; Lime-burners, Alchymists,</hi>
+                     </l>
+                     <l>
+                        <hi>Brick-makers, Brewers, Colliers, Kitchenists;</hi>
+                     </l>
+                     <pb n="99" facs="tcp:185188:12"/>
+                     <l>Let <hi>Salamanders, Swallowes, Bacon-stitches,</hi>
+                     </l>
+                     <l>
+                        <hi>Red-Sprats, red-Herings,</hi> and like <hi>Chimnie</hi>-wretches,</l>
+                     <l>Think no Disparagement, nor hold them base:</l>
+                     <l>TOBACCONISTS their Companie will grace,</l>
+                     <l>And teach them make a Vertue of Necessitie,</l>
+                     <l>Turning their <hi>Smoake</hi> into a <hi>grace</hi>-fool-<hi>Assitie.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>NExt the <hi>Good-Name,</hi> now let <hi>The Bodie</hi> showe</l>
+                     <l>What Wrongs to it from out TOBACCO flow:</l>
+                     <l>For, as That is Man's baser Part, indeed,</l>
+                     <l>It is most basely handled by This Weed.</l>
+                  </lg>
+                  <lg>
+                     <l>And First (as was significantlie said</l>
+                     <l>Before our <hi>Soueraigne,</hi> by an <hi>Oxford</hi> Head)</l>
+                     <l>TOBACCO, <hi>Smoak</hi> into the <hi>Parlour</hi> putts,</l>
+                     <l>And basest Office in the best Roome shuts,</l>
+                     <l>While to the Head it doth exhale and hoist</l>
+                     <l>The Bodies filthie and superfluous Moist;</l>
+                     <l>Causing a moist Brain, by vnceast Supply</l>
+                     <l>Of Rheumes still drawne to th'Bodies <hi>Stillarie:</hi>
+                     </l>
+                     <l>Which in experience, and in reason, make</l>
+                     <l>Men most vnapt Deep thing to vndertake.</l>
+                     <l>For, for the most part, shallow are the Wits,</l>
+                     <l>Conceipts, and Counsaills of TOBACCONITS.</l>
+                     <l>Sith <hi>Wisedome dwells in Drye:</hi> Her proper Seat</l>
+                     <l>Is a drye Brain, embatteld well with Heat.</l>
+                  </lg>
+                  <lg>
+                     <pb n="100" facs="tcp:185188:13"/>
+                     <l>Also, it fries and dries away the Blood</l>
+                     <l>(As did that <hi>Persian</hi> the <hi>Euphratean</hi> Flood,</l>
+                     <l>To conquer <hi>Babylon</hi>) by whose <hi>incrassion,</hi>
+                     </l>
+                     <l>The <hi>Vitall Spirits,</hi> in an vnwonted fashion</l>
+                     <l>Are bay'd, and barred of their Passage due</l>
+                     <l>Through all the veines, their vigour to renew:</l>
+                     <l>So that the Humors (as all out of frame)</l>
+                     <l>Tending to putrefie and to inflame,</l>
+                     <l>Fire the whole House; from whence there followes euer</l>
+                     <l>A dangerous, if not a deadly <hi>Feuer.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Lastly, this boyling, broyling, of the Blood,</l>
+                     <l>Breeds much adusted <hi>Melancholy</hi>-Mood</l>
+                     <l>(<hi>Sathan's</hi> fit Saddle, from their sullen Cell,</l>
+                     <l>To ride, in post, his wretched Slaues to Hell,</l>
+                     <l>With Two keen Spurres (too-quick in their Effect)</l>
+                     <l>Th' one of Excesse, the other of Defect;</l>
+                     <l>A violent <hi>Passion,</hi> pushing <hi>Reason</hi> back,</l>
+                     <l>Or fell <hi>Despaire,</hi> when <hi>Conscience</hi> is awake.)</l>
+                     <l>For, as of all <hi>Insensibles,</hi> hath none</l>
+                     <l>More <hi>Melancholie</hi> and <hi>Adustion,</hi>
+                     </l>
+                     <l>Then <hi>Chimnies</hi> haue; What kind of <hi>Chimny</hi> is't,</l>
+                     <l>Lesse <hi>Sensible</hi> then a TOBACCONIST?</l>
+                     <l>And in receiuing <hi>Smoake,</hi> fith th' are so equall;</l>
+                     <l>Can their <hi>adustion</hi> then be much vnequall?</l>
+                     <pb n="101" facs="tcp:185188:13"/>
+                     <l>Thus then the Habit of TOBACCONING,</l>
+                     <l>Makes one more <hi>Chimny</hi>-like then any thing.</l>
+                  </lg>
+                  <lg>
+                     <l>Some also think it causeth exsiccation</l>
+                     <l>(As of the Blood) of Seed of generation;</l>
+                     <l>By th' acrimonie stirring more to couet,</l>
+                     <l>Then fruitfully producing Issue of it:</l>
+                     <l>Whence, we may learne to maruell so much lesse,</l>
+                     <l>That (for the most) our <hi>Gentles,</hi> that professe</l>
+                     <l>TOBACCONISME, loue <hi>Lemman</hi>-Sauce so well;</l>
+                     <l>Or that such Legions of the Base <hi>pel-mel,</hi>
+                     </l>
+                     <l>Vnder the Standard of TOBACCO, vse</l>
+                     <l>To <hi>Turn-bull</hi> first, then to <hi>Our Bartholmewes.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>And where there haue been many great Inquests</l>
+                     <l>To find the Cause Why Bodies still grow lesse,</l>
+                     <l>And daily neerer to the <hi>Pigmies</hi> Size</l>
+                     <l>This, among many Probabilities</l>
+                     <l>May passe for one: that their Progenitours</l>
+                     <l>Did gladly foment their Interiours</l>
+                     <l>With holesome Food, vnmired, moderate,</l>
+                     <l>And timely Liquors duely temperate:</l>
+                     <l>But, now-adaies, Their Issue inly choake</l>
+                     <l>And dry them vp (like Herrings) with This <hi>Smoakes</hi>
+                     </l>
+                     <l>For, Herrings, in the Sea, are large and full,</l>
+                     <l>But shrink in bloating and together pull:</l>
+                     <pb n="102" facs="tcp:185188:14"/>
+                     <l>Whence, in effect, Smoak vnto Smoak referring,</l>
+                     <l>TOBACCONISTS are not vnlike Red Herring.</l>
+                  </lg>
+                  <lg>
+                     <l>Vndoubtedly, beyond all Moderation</l>
+                     <l>It dries the Bodie, robs of irrigation</l>
+                     <l>The thirstie parts; so that the bowels cry</l>
+                     <l>For Moist and Cold, to temper Hot and Dry:</l>
+                     <l>Whence, th'Elementall Qualities of Theirs,</l>
+                     <l>In Faction, fall together by the Eares.</l>
+                     <l>For, in the Hearb excesse of Dry and Hot,</l>
+                     <l>Drawes-in excesse of Cold-Moist from the Pot;</l>
+                     <l>For which they troup to th' Ale-house shortly after,</l>
+                     <l>As rats-ban'd Rats doe hie them to the Water.</l>
+                     <l>And yet, their liquid Cooler cures them not,</l>
+                     <l>No more then Water doth the baned Rat:</l>
+                     <l>For th' Heat and Drought of th' <hi>Herb American</hi>
+                     </l>
+                     <l>Being intensiue (fitter call'd Man-Bane)</l>
+                     <l>The one dries-vp the <hi>Humour Radicall,</hi>
+                     </l>
+                     <l>The other drownes the <hi>Calor Naturall.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>But the most certaine and apparant Ill</l>
+                     <l>Is an Ill Habit which doth hant them still;</l>
+                     <l>Transforming <hi>Nature</hi> from her natiue Mould:</l>
+                     <l>For, <hi>Custome</hi> we another <hi>Nature</hi> hold.</l>
+                     <l>And This vile <hi>Custome</hi> is so violent,</l>
+                     <l>And holds his <hi>Customers</hi> at such a Bent,</l>
+                     <pb n="103" facs="tcp:185188:14"/>
+                     <l>That thogh therby more Hurt then Good they doubt,</l>
+                     <l>To die for it, they cannot liue without.</l>
+                     <l>Which doubtless, is a miserable State:</l>
+                     <l>For, Men are surely the more Fortunate,</l>
+                     <l>Of fewer Creatures that they stand in need:</l>
+                     <l>More, but more Bondage, and less freedome breed.</l>
+                     <l>A House that must haue many Props and Stayes</l>
+                     <l>Is neerer Fall, and faster it decayes:</l>
+                     <l>Variety and Surfeit feed the <hi>Spittle,</hi>
+                     </l>
+                     <l>And fill the Graue. <hi>Nature's content with little.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Why then should Man, <hi>liuing</hi> and <hi>rationall,</hi>
+                     </l>
+                     <l>Beslaue himselfe to a dead <hi>Vegetall?</hi>
+                     </l>
+                     <l>Why, demi-heauenly, and most free by Birth,</l>
+                     <l>Should he be bound vnto this Childe of Earth?</l>
+                     <l>Why, Lord of Creatures, should He serue: at least,</l>
+                     <l>Why such a Creature, baser then a beast?</l>
+                  </lg>
+                  <lg>
+                     <l>OF: had I seen <hi>Fooles</hi> of all sorts frequent it,</l>
+                     <l>
+                        <hi>Fooles</hi> of all Size, <hi>Fooles</hi> of all Sexes hant it,</l>
+                     <l>
+                        <hi>Fooles</hi> of all Colours, <hi>Fooles</hi> of all Complexions,</l>
+                     <l>
+                        <hi>Fooles</hi> of all Fashions, <hi>Fooles</hi> of all Affections,</l>
+                     <l>
+                        <hi>Fooles</hi> naturall, <hi>Fooles</hi> artificiall,</l>
+                     <l>
+                        <hi>Fooles</hi> rich and poore, young <hi>Fooles,</hi> old <hi>Fooles,</hi> &amp; all;</l>
+                     <l>Whom, <hi>Foole</hi> I pitied, for their wilfull Folly;</l>
+                     <l>Supposing, None discreetly Wise (or Holy)</l>
+                     <pb n="104" facs="tcp:185188:15"/>
+                     <l>Could be entangled with so fond a thing,</l>
+                     <l>As is the habit of TOBACCONING.</l>
+                     <l>For, what Discretion, or what Wisdome can,</l>
+                     <l>Think <hi>Physicke</hi> Food, or <hi>Med'cine</hi> Meat, for Man?</l>
+                  </lg>
+                  <lg>
+                     <l>I rather thought <hi>Vlysses</hi> rather would</l>
+                     <l>Haue stopt his Eares, Eyes, Hands &amp; Mouth with-hold</l>
+                     <l>From such a <hi>Cyrcean</hi> Drug, whose working strange,</l>
+                     <l>Would soon his best into a Beast exchange.</l>
+                     <l>But when I saw some Wise-ones snared in</l>
+                     <l>This <hi>Spanish Cobweb</hi> (Sathans speciall Gin)</l>
+                     <l>And that so fast, they cannot when they would</l>
+                     <l>Get out againe; or will not if they could:</l>
+                     <l>
+                        <hi>Wisedome,</hi> me thought, must varie much; or else</l>
+                     <l>This <hi>Ware</hi> is <hi>spiced</hi> with some Foraine Spels,</l>
+                     <l>So to bewitch the Wise (need-less, and nilling)</l>
+                     <l>To take and loue; and not to leaue it, willing.</l>
+                     <l>For, those that say and sweare they euen abhorre it,</l>
+                     <l>Cannot abandon, but Thus bandie for it:</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Tis good (say They) Tis speciall good for Rheumes;</hi>
+                     </l>
+                     <l>
+                        <hi>Exhales grosse Humors, their Excesse consumes;</hi>
+                     </l>
+                     <l>
+                        <hi>And voids with-all, all Inconuenience</hi>
+                     </l>
+                     <l>
+                        <hi>There-on depending, or descending Thence.</hi>
+                     </l>
+                     <l>Which should I grant, it must be yet with Clauses</l>
+                     <l>Of needfull Caution, suitable to Causes;</l>
+                     <pb n="105" facs="tcp:185188:15"/>
+                     <l>When time requireth Preparation fit</l>
+                     <l>To rarifie congealed Rags of it;</l>
+                     <l>Which by the Heat and Drynesse probably,</l>
+                     <l>This Plant performes, in mediocritie:</l>
+                     <l>Or else, where the aboundant Quantity,</l>
+                     <l>Dangerous Effect, malignant Quality,</l>
+                     <l>Of ouer-moistures, aske <hi>Euacuation,</hi>
+                     </l>
+                     <l>To free the Parts from totall Inundation.</l>
+                  </lg>
+                  <lg>
+                     <l>How-be-it, many safer Meanes there are.</l>
+                     <l>Better and fitter in themselues by farre;</l>
+                     <l>More certaine, more direct; with lesse adoo,</l>
+                     <l>Lesse Cost, lesse Damage, and lesse Danger too</l>
+                     <l>Than <hi>Don</hi> TOBACCO's damnable Infection.</l>
+                     <l>Slutting the Body, slauing the Affection.</l>
+                  </lg>
+                  <lg>
+                     <l>Twere therefore better somewhat else to seek</l>
+                     <l>Then rest in this, so worthie of Dis-like;</l>
+                     <l>Sith, curing Thus one small Infirmity,</l>
+                     <l>It doth create a greater Malady,</l>
+                     <l>When there-by freed (perhaps) from <hi>Rheumes</hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e fall</l>
+                     <l>In Bondage of this <hi>Custome</hi> capitall.</l>
+                     <l>For, they that <hi>Physicke</hi> to a <hi>Custome</hi> bring,</l>
+                     <l>Bring their <hi>Disease</hi> too, to accustoming.</l>
+                     <l>Perpetuall <hi>Physicke</hi> must of force imply</l>
+                     <l>Perpetuall <hi>Sicknesse:</hi> or deep Foolerie</l>
+                     <pb n="106" facs="tcp:185188:16"/>
+                     <l>Compos'd of <hi>Anticke</hi> and of <hi>Phrantick</hi> too:</l>
+                     <l>For where's no <hi>Sickness,</hi> what should <hi>Med'eine</hi> doo?</l>
+                  </lg>
+                  <lg>
+                     <l>THus for the <hi>Bodie:</hi> Now the <hi>Soule</hi> diuine</l>
+                     <l>With This wilde <hi>Goose-Grasse</hi> of the <hi>Perusine</hi>
+                     </l>
+                     <l>Hath Foure great Quarels, in foure-fold respect</l>
+                     <l>Of her Foure Faculties; the <hi>Intellect,</hi>
+                     </l>
+                     <l>The <hi>Memory,</hi> the <hi>Will,</hi> the <hi>Conscience;</hi>
+                     </l>
+                     <l>All which are wronged, if not wounded, Thence.</l>
+                  </lg>
+                  <lg>
+                     <l>First, in the <hi>Intellect,</hi> it d'outs the Light,</l>
+                     <l>Darkens the House, dims th' vnderstandings Sight;</l>
+                     <l>Through neuer-ceast succession of <hi>Humiditie,</hi>
+                     </l>
+                     <l>The Dam of dulnesse, Mother of <hi>Stupiditie;</hi>
+                     </l>
+                     <l>Making Mans generous Brain (best, dry and hot)</l>
+                     <l>Lie drown'd, and driueling like a Changeling Sot.</l>
+                     <l>Why then should Man, to put out <hi>Reason's</hi> Eye,</l>
+                     <l>Suffer his Soule in <hi>Smoakie</hi> Lodge to lye?</l>
+                     <l>For, though some others, and my Selfe by proofe</l>
+                     <l>(When scornefully I tooke it but in <hi>Snuffe</hi>)</l>
+                     <l>Haue th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eby sometimes found some benefit;</l>
+                     <l>Superfluous Humors from the Brain to quit,</l>
+                     <l>To cleer the Voyce, and cheer the <hi>Phantasie,</hi>
+                     </l>
+                     <l>Which, for the present, it did seem supply:</l>
+                     <l>Yet doth the <hi>Custome</hi> (as we likewise finde)</l>
+                     <l>Dis-nerue the Bodie, and dis-apt the Minde.</l>
+                  </lg>
+                  <lg>
+                     <pb n="107" facs="tcp:185188:16"/>
+                     <l>Next; It decayes and mars the <hi>Memorie,</hi>
+                     </l>
+                     <l>And brings it to strange Imbecillitie,</l>
+                     <l>By still attraction of continuall <hi>Moist,</hi>
+                     </l>
+                     <l>Which from the lower parts it wonts to hoist:</l>
+                     <l>For, though best <hi>Memorie</hi> dwel in a Brain</l>
+                     <l>
+                        <hi>Moist-moderate;</hi> Yet ouer-<hi>moist,</hi> againe</l>
+                     <l>Makes it so laxe, so diffluent and thin,</l>
+                     <l>That nothing can be firmely fixt there-in;</l>
+                     <l>But instantly it slides and slips-away,</l>
+                     <l>As weary heeles on wet and slippery Clay.</l>
+                     <l>For Proofe whereof: None more forgetfull is</l>
+                     <l>Of GOD and <hi>Good,</hi> than are <hi>Tobacconists.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Touching th' <hi>Affections,</hi> they are tir'd no lesse</l>
+                     <l>By This fell Tyrants insolent Excesse:</l>
+                     <l>For, the <hi>Adustion</hi> of th'inherent <hi>Heat,</hi>
+                     </l>
+                     <l>
+                        <hi>Drought, Acrimonie</hi> (Tartar-like) doth fret;</l>
+                     <l>Makes men more soudain and more heed-less heady,</l>
+                     <l>More sullen-sowr, more stubbornely-vnsteady,</l>
+                     <l>More apt to wrath, to wrangle, and to braule;</l>
+                     <l>To giue and take a Great Offence, for Small;</l>
+                     <l>Cause-less Reioycing, and as cause-less Sorry,</l>
+                     <l>Exceeding-Mournefull, and excessiue-Merry:</l>
+                     <l>Whence growes, in fine, excessiue Griefe &amp; Fear;</l>
+                     <l>For Dumpier none than the <hi>Tobacconer:</hi>
+                     </l>
+                     <pb n="108" facs="tcp:185188:17"/>
+                     <l>None sadder than the gladdest of their Host;</l>
+                     <l>None hating more than hee that loued most;</l>
+                     <l>None fearing more, none danted more than such</l>
+                     <l>As, in a <hi>Passion,</hi> rather dar'd too-much.</l>
+                     <l>For, <hi>Relatiues inseparable dwell:</hi>
+                     </l>
+                     <l>And <hi>Contraries their Contraries expell.</hi>
+                     </l>
+                     <l>And (with th'<hi>old Poet) Tis the Cox-combs Course</hi>
+                     </l>
+                     <l>
+                        <hi>Flying a Fault to fall into a Worse.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>But if they say, that sometimes, taking it,</l>
+                     <l>The Minde is freed from some instant Fit</l>
+                     <l>Of Anger, Griefe, or Feare; Experience tells</l>
+                     <l>It is but like some of our Tooth-ake Spells,</l>
+                     <l>Which for the present seem to ease the Pain,</l>
+                     <l>But after, double it with more Rage again,</l>
+                     <l>Because a little, for the time, it drawes,</l>
+                     <l>But leaues behinde the very Root and Cause.</l>
+                  </lg>
+                  <lg>
+                     <l>Lastly, the <hi>Conscience</hi> (as it is the best)</l>
+                     <l>This <hi>Indian</hi> Weed doth most of all molest;</l>
+                     <l>Loading it daily with such Weight of Sin,</l>
+                     <l>Where-of the least shall at the last come-in</l>
+                     <l>To strict Account: the Losse of precious houres,</l>
+                     <l>Neglect of GOD, of <hi>Good,</hi> of Vs, of Ours:</l>
+                     <l>Our ill Example, prodigall Excesse,</l>
+                     <l>Vain Words, vain Oathes, Dice, Daring, Drunkennes,</l>
+                     <pb n="109" facs="tcp:185188:17"/>
+                     <l>Sloath, iesting, scoffing, turning Night to Day,</l>
+                     <l>And Day to Night; Disorder, Disaray;</l>
+                     <l>Places of Scorne and publicke Scandall hanting;</l>
+                     <l>Persons of base and beastly Life frequenting,</l>
+                     <l>Theeues, Vnthrifts, Rustians, Robbers, Roarers, Drabbers,</l>
+                     <l>Bibbers, Blasphemers, Shiftters Sharkers Stabbers:</l>
+                     <l>This is the <hi>Rendez-vous,</hi> These are the Lists,</l>
+                     <l>Where do encounter Most TOBACCONISTS:</l>
+                     <l>Wherein they walk, like a blind Mill-horse, round</l>
+                     <l>In the same Circle, on the selfe same ground;</l>
+                     <l>Forgetting how, Dayes, Months, and Yeeres do passe;</l>
+                     <l>No more regarding, than an Oxe or Asse,</l>
+                     <l>How Age growes on, How <hi>Death</hi> attendeth them,</l>
+                     <l>GOD knowes how neer: (<hi>Whom</hi> on each side behem</l>
+                     <l>A late <hi>Repentance,</hi> or a flat <hi>Despaire</hi>)</l>
+                     <l>And after <hi>That,</hi> a noysome stinking Aire</l>
+                     <l>Of their infamous rotten <hi>Memory</hi>
+                     </l>
+                     <l>With Men on Earth; in Heauen with GOD on hie</l>
+                     <l>A Fearefull <hi>Doom:</hi> and finally in Hell,</l>
+                     <l>Infinitie of Fierie <hi>Torments</hi> fell.</l>
+                  </lg>
+                  <lg>
+                     <l>The Last and least of all TOBACCO harms</l>
+                     <l>Is to the <hi>Purse:</hi> which yet it so becharmes,</l>
+                     <l>That Iuggler-like it iests-out all the Pelfe,</l>
+                     <l>And makes a Man a <hi>Pick-purse</hi> to himselfe.</l>
+                     <pb n="110" facs="tcp:185188:18"/>
+                     <l>For, as by This th' <hi>Iberian Argonauts</hi>
+                     </l>
+                     <l>May be suppos'd (euen among serious Thoughts)</l>
+                     <l>T'haue kill' more Men than by their Martyrdome</l>
+                     <l>Or <hi>Massacre</hi> (which yet to Millions come)</l>
+                     <l>So, by the Same they haue vndone more Men,</l>
+                     <l>Than <hi>Vsurie</hi> (which takes from Hundred, Ten)</l>
+                     <l>And no-where more than in <hi>This witched Isle:</hi>
+                     </l>
+                     <l>Woe to their Fraudes, Woe to vs Fooles, the-while.</l>
+                  </lg>
+                  <lg>
+                     <l>HOw-many <hi>Gentles,</hi> not of Meanest Sort</l>
+                     <l>(Whose Fathers liu'd in honourable Port,</l>
+                     <l>For Table, Stable, and Attendance fit;</l>
+                     <l>Louing their Countrie, and belou'd of it)</l>
+                     <l>Leauing their Neighbours, fly from their Approach,</l>
+                     <l>And, for the most keep House in a <hi>Caroach</hi>
+                     </l>
+                     <l>(Hells new found Cradles! where are rockt asleep</l>
+                     <l>Mischiefes that make our Common-weale to weep.)</l>
+                     <l>Or in some <hi>Play-house,</hi> or some <hi>Ordinarie,</hi>
+                     </l>
+                     <l>Or in some Peece of some <hi>Vn-Sanctuarie;</hi>
+                     </l>
+                     <l>Where, throgh their <hi>Pipe-puft Nose</hi> more <hi>Smoak</hi> they waue,</l>
+                     <l>Than all the <hi>Chimneis</hi> their great Howses haue;</l>
+                     <l>Consuming more in their <hi>Obscure-Obscoenitie,</hi>
+                     </l>
+                     <l>On <hi>Smoake</hi> and <hi>Smock,</hi> with their <hi>appendent Vanity,</hi>
+                     </l>
+                     <l>Than their braue Elders did, when they maintaind</l>
+                     <l>Honour at home, and forraine Glory gaind.</l>
+                  </lg>
+                  <lg>
+                     <pb n="111" facs="tcp:185188:18"/>
+                     <l>How doe they rack &amp; wrack, &amp; grate, &amp; grinde,</l>
+                     <l>Shuffle and cut, wrangle, and turne, and winde,</l>
+                     <l>Borrow and begge (vnder a Courtly Cloake)</l>
+                     <l>And all too-little for This liquorish <hi>Smoake!</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Alas the while! that men Thus needs will be</l>
+                     <l>Begger'd, vndone (of no <hi>Necessitie</hi>)</l>
+                     <l>In Bodie, Mind, and Means; vnapt, vnable</l>
+                     <l>For any <hi>Good,</hi> through This so need-less Bable.</l>
+                  </lg>
+                  <lg>
+                     <l>For, What a Folly, through the Nose to puffe</l>
+                     <l>Th'whole Bodie's Portion, in This idle stuffe!</l>
+                     <l>Or, what need any with TOBACCO, more</l>
+                     <l>Now meddle, than his Ancestors before?</l>
+                     <l>Who knew it not, but had, without it, Health,</l>
+                     <l>Liu'd long and lusty, in abundant Wealth.</l>
+                     <l>Or, what is any, when he all hath spent,</l>
+                     <l>The better for This deer Experiment?</l>
+                     <l>Which now-adaies a number daily finde</l>
+                     <l>Like <hi>Alchymie</hi> (though in another Kinde)</l>
+                     <l>To circulate, and calcinate (at length)</l>
+                     <l>Insensibly (TOBACCO hath such Srength)</l>
+                     <l>Manours, Demains, Goods, Cattell, Elme, &amp; Oake,</l>
+                     <l>Gold, Siluer, All; to <hi>Ashes</hi> and to <hi>Smoake,</hi>
+                     </l>
+                     <l>While all too-busie blowing at the Coale,</l>
+                     <l>Deiect their Body, and neglect their Soule.</l>
+                     <pb n="112" facs="tcp:185188:19"/>
+                     <l>For, O! What place is left to <hi>Christianitie,</hi>
+                     </l>
+                     <l>Mongst such a Crew (nay; almost to <hi>Humanitie</hi>)</l>
+                     <l>Where Oathes, Puf-snuffing, Spausing-Excrement,</l>
+                     <l>Are <hi>reall Parts of</hi> GENTLES Complement?</l>
+                  </lg>
+                  <lg>
+                     <l>And, for our <hi>Vulgar,</hi> by whose bold Abuse,</l>
+                     <l>TOBACCONING hath got so generall Vse;</l>
+                     <l>How mightily haue They since multipli'd</l>
+                     <l>Tauerns, Tap-houses! where, on euery side,</l>
+                     <l>Most sinfully hath Mault been sunken heer,</l>
+                     <l>In nappie <hi>Ale,</hi> and <hi>double-double Beer?</hi>
+                     </l>
+                     <l>Inuincible, in a Threefold Excesse;</l>
+                     <l>Strong <hi>Drink,</hi> strong <hi>Drinking,</hi> &amp; strange <hi>Drunkenness.</hi>
+                     </l>
+                     <l>Which on the Land hath brought, so visibly,</l>
+                     <l>So great a Mischiefe, so past Remedie,</l>
+                     <l>That Thousands daiely into Beggery sinke</l>
+                     <l>Through <hi>Idlenesse;</hi> in wilfull <hi>Debt</hi> for <hi>Drinke.</hi>
+                     </l>
+                     <l>Nor can the Lawe's seuerest Curb keep-in</l>
+                     <l>This coltish, common, priuiledged Sin.</l>
+                  </lg>
+                  <lg>
+                     <l>Then (shallow Reptile, superficiall Gnat)</l>
+                     <l>Why doe I humme? why doe I hisse there-at?</l>
+                  </lg>
+                  <lg>
+                     <l>BVt, awfull <hi>Iustice</hi> will with keener Edge</l>
+                     <l>Clip short (I hope) this sawcie Priuiledge;</l>
+                     <l>And at one Blowe cut-off this <hi>Ouer-Drinking,</hi>
+                     </l>
+                     <l>And euer <hi>Dropsie</hi> of TOBACCO-<hi>stinking:</hi>
+                     </l>
+                     <pb n="113" facs="tcp:185188:19"/>
+                     <l>When <hi>Our</hi> ALCIDES (though at <hi>Peace</hi> with Men,</l>
+                     <l>
+                        <hi>At Warre with Vices</hi>) as His <hi>armed Pen</hi>
+                     </l>
+                     <l>[Among the LABOVRS of his <hi>Royall</hi> hand,</l>
+                     <l>Where <hi>Piety</hi> and <hi>Prudence</hi> (ioyntly) stand</l>
+                     <l>Eternall PILLERS to His glorious <hi>Name;</hi>
+                     </l>
+                     <l>Vnto all Times to testifie the same,</l>
+                     <l>
+                        <hi>BRITANN'S</hi> right <hi>Beau-Clerk,</hi> both for <hi>Word and Writ:</hi>
+                     </l>
+                     <l>
+                        <hi>For Knowledge, Iudgement, Method, Memory:</hi>
+                     </l>
+                     <l>
+                        <hi>The Miracle, The</hi> ORACLE <hi>of Wit:</hi>
+                     </l>
+                     <l>
+                        <hi>Diuine and Morall</hi> ENCYCLOPAEDIE]</l>
+                     <l>Hath, as with Arrowes, from His sacred Sides,</l>
+                     <l>All-ready chac't These <hi>stinking Symphalides;</hi>
+                     </l>
+                     <l>Shall, with the <hi>Trident</hi> of some sharpe <hi>Edict,</hi>
+                     </l>
+                     <l>Seuere enacted, executed strict,</l>
+                     <l>Clense all the Staules of This <hi>Augaean</hi> Dung,</l>
+                     <l>Which hath so long corrupted Old and Young:</l>
+                     <l>Or, at the least, impose so deep a <hi>Taxe</hi>
+                     </l>
+                     <l>On All these <hi>Ball, Leafe, Cane,</hi> &amp; <hi>Pudding Packs;</hi>
+                     </l>
+                     <l>On Seller, or on Buyer, or on Both,</l>
+                     <l>That from Hencefoorth the <hi>Commons</hi> shalbe loth</l>
+                     <l>(Vnwilling-Wise) with that <hi>graue Greeke,</hi> to <hi>buy</hi>
+                     </l>
+                     <l>
+                        <hi>Smoak</hi> and <hi>Repentance at a Price so hie.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>If, notwithstanding, Yet some Wealthy will</l>
+                     <l>Needs poyson, and vndoo them with it, still;</l>
+                     <pb n="114" facs="tcp:185188:20"/>
+                     <l>It shall be onely some of Those prophane</l>
+                     <l>Loose <hi>Prodigals</hi> (their Countries Blot and Bane)</l>
+                     <l>Best to be spar'd, least to be mist; whose Lands</l>
+                     <l>(If anie left) will come to Wiser hands</l>
+                     <l>Than such weak <hi>Ninnies,</hi> needing <hi>Wardship</hi> yet;</l>
+                     <l>Not for their want of <hi>Age,</hi> but want of <hi>Wit.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Avidius Cassius</hi> (as <hi>Lampridius</hi> showes)</l>
+                     <l>Did first inuent, and first of all impose</l>
+                     <l>That vncouth Manner of tormenting Folk,</l>
+                     <l>On a high Beame to smoother them with <hi>Smoak:</hi>
+                     </l>
+                     <l>Where, had TOBACCO bin then known, he need</l>
+                     <l>But haue enioyn'd them to haue tane that Weed.</l>
+                  </lg>
+                  <lg>
+                     <l>But, with more Reason and more Equitie,</l>
+                     <l>
+                        <hi>Seuerus Caesar,</hi> when he did discry</l>
+                     <l>The double-dealing of <hi>Vetronius</hi>
+                     </l>
+                     <l>[A Cousening Courtier (Such are none with Vs)</l>
+                     <l>A Iack-of both-sides, with both hands to play</l>
+                     <l>(As now-adayes some Lawyers doo, they say)</l>
+                     <l>Faining great Fauour with his Soueraign,</l>
+                     <l>To take great Bribes of Many, to obtain</l>
+                     <l>Great Suits; for whom his Prince he neuer mou'd]</l>
+                     <l>Aloud complain'd of, and apparant prou'd;</l>
+                     <l>Caus'd his false <hi>Minion</hi> with this <hi>Doom</hi> to choak,</l>
+                     <l>
+                        <hi>Let the Smoak-seller suffocate with Smoak:</hi>
+                     </l>
+                     <pb n="115" facs="tcp:185188:20"/>
+                     <l>Which, our <hi>Smoak</hi> Merchants would no lesse befit;</l>
+                     <l>TOBACCO-<hi>Mongers,</hi> Bringers-in of it:</l>
+                     <l>Which yeerly costs (they say, by <hi>Audit</hi> found)</l>
+                     <l>Of better Wares an hundred Thousand pound.</l>
+                  </lg>
+                  <lg>
+                     <l>And, if the <hi>Sentence</hi> of this <hi>Heathen Prince,</hi>
+                     </l>
+                     <l>On That <hi>Impostor,</hi> for his <hi>Impudence,</hi>
+                     </l>
+                     <l>Were iust: How iuster will the Heau'nly GOD,</l>
+                     <l>Th' <hi>Eternal,</hi> punish with infernall Rod,</l>
+                     <l>In Hell's darke (Fornace, with black <hi>Fumes,</hi> to choak)</l>
+                     <l>Those, that on Earth will still <hi>offend in Smoak?</hi>
+                     </l>
+                     <l>Offend their Friends, with a Most <hi>vn Respect:</hi>
+                     </l>
+                     <l>Offend their Wiues and Children with Neglect:</l>
+                     <l>Offend the Eyes, with foule and loathsom Spawlings:</l>
+                     <l>Offend the Nose, with filthy Fumes exhalings:</l>
+                     <l>Offend the Eares, with lowd lewd <hi>Execrations:</hi>
+                     </l>
+                     <l>Offend the Mouth, with ougly Excreations:</l>
+                     <l>Offend the <hi>Sense,</hi> with stupefying <hi>Sense:</hi>
+                     </l>
+                     <l>Offend the Weake, to follow then <hi>Offense:</hi>
+                     </l>
+                     <l>Offend the Body, and offend the Minde:</l>
+                     <l>Offend the <hi>Conscience</hi> in a fearefull kinde:</l>
+                     <l>Offend their <hi>Baptisme,</hi> and their <hi>Second Birth:</hi>
+                     </l>
+                     <l>Offend the <hi>Maiestie</hi> of Heau'n and Earth.</l>
+                  </lg>
+                  <lg>
+                     <l>Woe to the World because of Such <hi>Offenses:</hi>
+                     </l>
+                     <l>So voluntaire, so voyd of all pretenses</l>
+                     <pb n="116" facs="tcp:185188:21"/>
+                     <l>Of all <hi>Excuse</hi> (saue <hi>Fashion, Custome, Will</hi>)</l>
+                     <l>In so apparant, proued, granted, <hi>Ill.</hi>
+                     </l>
+                     <l>Woe, woe to them by Whom <hi>Offences</hi> come,</l>
+                     <l>So scandalous to All our CHRISTENDOME.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:185188:21"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:185188:22"/>
+                  <pb facs="tcp:185188:22"/>
+                  <p>SIMILE non est IDEM: <hi>Seeming is not the-Same. OR</hi> All's not GOLD that glisters. A <hi>CHARACTER</hi> Of This corrupted Time, which makes <hi>RELIGION</hi> but <hi>A Couer-Crime.</hi>
+                  </p>
+               </div>
+               <div type="dedicatory_verse_or_poem">
+                  <pb facs="tcp:185188:23"/>
+                  <pb facs="tcp:185188:23"/>
+                  <head>
+                     <hi>TO</hi> The worthily-Honored, S<seg rend="sup">r</seg>. HENRIE BAKER, <hi>Knight-Baronet.</hi>
+                  </head>
+                  <l>TIs better <hi>late,</hi> than <hi>neuer</hi> to repay:</l>
+                  <l>Better a <hi>little,</hi> than <hi>no Part</hi> at all:</l>
+                  <l>Take therfore, in good-part, <hi>This Part</hi> (though smal)</l>
+                  <l>Of your <hi>great Debt:</hi> &amp; pardon my Delay,</l>
+                  <l>Till (more mine Owne) with more <hi>Respect,</hi> I may</l>
+                  <l>IN better <hi>Measure</hi> (as I hope, I shall)</l>
+                  <l>Answere your <hi>Merit;</hi> though not answere all</l>
+                  <l>Your <hi>Bounties</hi> Bonds, renewed Day by Day.</l>
+                  <l>
+                     <hi>Yov mind your MAKER, in your Dayes of Youth:</hi>
+                  </l>
+                  <l>You <hi>shew vs, by your Works, your Faith's</hi> sincerity:</l>
+                  <l>You are so <hi>friendly</hi> to the <hi>Friends</hi> of <hi>Truth,</hi>
+                  </l>
+                  <l>Your <hi>vertuous</hi> Life so proues your Loue to <hi>Veritie,</hi>
+                  </l>
+                  <l>That <hi>None,</hi> I thought, could, with more patient Eye,</l>
+                  <l>Abide to looke on This ANATOMIE.</l>
+                  <closer>
+                     <signed>Your Vertues Humble Honourer, IOSVAH SYLVESTER.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:185188:24"/>
+                  <pb n="119" facs="tcp:185188:24"/>
+                  <head>SIMILE non est IDEM: <hi>Seeming</hi> is not <hi>The-Same.</hi> or All is not GOLD, that glisters.</head>
+                  <lg>
+                     <head>1</head>
+                     <l>
+                        <hi>HOw</hi> TIMES <hi>are chang'd! and</hi> WEE <hi>with</hi> Times,</l>
+                     <l>In new, nefarious, various Crimes!</l>
+                     <l>Exceeding all that haue preceeded,</l>
+                     <l>In <hi>Pride, in Fraud, in Filth, in Force,</hi>
+                     </l>
+                     <l>
+                        <hi>Rape, Treason, Poyson,</hi> past Remorse;</l>
+                     <l>Such, as (in Time) will scarce be creeded.</l>
+                  </lg>
+                  <lg>
+                     <head>2</head>
+                     <l>O Mindes! O Manners, most absurd!</l>
+                     <l>When (to the Scandall of <hi>The Word</hi>)</l>
+                     <l>The more our Light, the worse our Works:</l>
+                     <l>When <hi>seeming</hi> SAINCTS <hi>be</hi> nothing lesse;</l>
+                     <l>And more Profane, Who most Professe,</l>
+                     <l>Than <hi>Infidels,</hi> or <hi>Iewes,</hi> or <hi>Turks.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="120" facs="tcp:185188:25"/>
+                     <head>3</head>
+                     <l>And when, between our <hi>roaring</hi> GIANTS,</l>
+                     <l>That openly, bid Heau'n Defiance,</l>
+                     <l>Heaping-vp Hill's of Wickednes;</l>
+                     <l>And th'undermining close despights</l>
+                     <l>Of double-hearted <hi>Hypocrites,</hi>
+                     </l>
+                     <l>Masking in Hollow-<hi>Holinesse;</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>4</head>
+                     <l>From Earth are FAITH &amp; TRVTH exil'd;</l>
+                     <l>False <hi>Error</hi> hath all Hearts beguil'd:</l>
+                     <l>All-ouer All ABVSES raigne.</l>
+                     <l>
+                        <hi>Vertue is Vice; Vice, Vertue grown,</hi>
+                     </l>
+                     <l>
+                        <hi>Iustice</hi> is iustied from her Owne:</l>
+                     <l>
+                        <hi>Honor</hi> and <hi>Right</hi> are in disdaigne.</l>
+                  </lg>
+                  <lg>
+                     <head>5</head>
+                     <l>'Tis, To be <hi>Foolish,</hi> To be <hi>Wise:</hi>
+                     </l>
+                     <l>With Reason, is Against the Guise:</l>
+                     <l>Read they that can My Riddle right.</l>
+                     <l>
+                        <hi>Christ,</hi> Sonne of Man; and GOD <hi>of Hoasts,</hi>
+                     </l>
+                     <l>How-many of Thy <hi>Baptisme</hi> boasts,</l>
+                     <l>Whose life doth to the death defi't</l>
+                  </lg>
+                  <lg>
+                     <pb n="121" facs="tcp:185188:25"/>
+                     <head>6</head>
+                     <l>For, Thy Disciples Thee beleeue;</l>
+                     <l>And in Thee onely double-line;</l>
+                     <l>According to Thy GOSPEL'S <hi>veritie:</hi>
+                     </l>
+                     <l>But, dare Wee say, that Wee are such;</l>
+                     <l>When now-adayes in Poore or Rich,</l>
+                     <l>Is found nor <hi>Faith,</hi> nor <hi>Hope,</hi> nor <hi>Charity?</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>7</head>
+                     <l>GOD hath engrauen in euery Soule</l>
+                     <l>A natiue Law, on <hi>Natures</hi> Roule;</l>
+                     <l>Whereby (alas) We stand convict:</l>
+                     <l>And <hi>Precedents</hi> of pious <hi>Zeal,</hi>
+                     </l>
+                     <l>Who by their Bloods, their <hi>Hopes</hi> did seale,</l>
+                     <l>To double Death condemne vs, strict.</l>
+                  </lg>
+                  <lg>
+                     <head>8</head>
+                     <l>Wee ought infringe That <hi>Statute</hi> neuer,</l>
+                     <l>From euerlasting firm'd for-euer:</l>
+                     <l>
+                        <hi>Doo as Thou would'st be done vnto:</hi>
+                     </l>
+                     <l>
+                        <hi>Doo not, what Thou wouldest not accept.</hi>
+                     </l>
+                     <l>O pure, plaine, gentle, iust <hi>Precept!</hi>
+                     </l>
+                     <l>Yet This (alas) Who lookes to doo?</l>
+                  </lg>
+                  <lg>
+                     <pb n="122" facs="tcp:185188:26"/>
+                     <head>9</head>
+                     <l>When all Degrees, so tender bin</l>
+                     <l>Towards them Selues, without, with-in,</l>
+                     <l>They, neither Wrong, nor Right, can suffer:</l>
+                     <l>But towards Others (made as They,</l>
+                     <l>By the same hand, of the same Clay)</l>
+                     <l>Against all Rights, all Wrongs doo offer.</l>
+                  </lg>
+                  <lg>
+                     <head>10</head>
+                     <l>LORD, Thou hast said, &amp; show'n it cleer</l>
+                     <l>(When in thy Flesh, Thou soiourn'dst heer)</l>
+                     <l>
+                        <hi>Thy Kingdom is not of This World:</hi>
+                     </l>
+                     <l>So shall I euermore suspect,</l>
+                     <l>While heer I see, with such neglect,</l>
+                     <l>
+                        <hi>Thy Holy Statutes</hi> after-hurl'd.</l>
+                  </lg>
+                  <lg>
+                     <head>11</head>
+                     <l>All those <hi>(O Lord)</hi> that cry, <hi>Lord, Lord;</hi>
+                     </l>
+                     <l>With Shadow of thy <hi>Sacred Word,</hi>
+                     </l>
+                     <l>To cloak their Wickednesse, with-in;</l>
+                     <l>Are none of <hi>Thine:</hi> but, of Thy <hi>Name</hi>
+                     </l>
+                     <l>Profanely make a Mocking-Game,</l>
+                     <l>To countenance their cursed Sin.</l>
+                  </lg>
+                  <lg>
+                     <pb n="123" facs="tcp:185188:26"/>
+                     <head>12</head>
+                     <l>Like that IGNATIAN-<hi>Latian Colledge,</hi>
+                     </l>
+                     <l>Where, vnder Shew of <hi>Sacred Knowledge,</hi>
+                     </l>
+                     <l>They studie <hi>State</hi> and <hi>Stratagems;</hi>
+                     </l>
+                     <l>Making a staple-Trafick of it,</l>
+                     <l>(After their Pleasure, or their Profit)</l>
+                     <l>To murder <hi>Kings,</hi> and mangle Realmes:</l>
+                  </lg>
+                  <lg>
+                     <head>13</head>
+                     <l>Thee, IESVS (Mercifull and Meek)</l>
+                     <l>They make a Tyrant (<hi>Nero</hi>-like)</l>
+                     <l>Bloody and brute, to kill and quell:</l>
+                     <l>Thee, SAVIOVR, Source of <hi>Innocence,</hi>
+                     </l>
+                     <l>Thee, <hi>Prince of Peace and Patience;</hi>
+                     </l>
+                     <l>They make a <hi>Fury,</hi> fierce and fell.</l>
+                  </lg>
+                  <lg>
+                     <head>14</head>
+                     <l>Thee, <hi>Iustice</hi>-Fountain, <hi>Order's</hi> Authour;</l>
+                     <l>They make <hi>Wrong's</hi> Fort, <hi>Confusion's</hi> Fautor:</l>
+                     <l>Immortall Spring immaculate</l>
+                     <l>Of <hi>Loue,</hi> of <hi>Concord,</hi> and of VNION,</l>
+                     <l>They make Thee Trumpet of <hi>Dis-Vnion,</hi>
+                     </l>
+                     <l>And Tinder of immortall <hi>Hate.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="124" facs="tcp:185188:27"/>
+                     <head>15</head>
+                     <l>Such <hi>Cannons</hi> roare from <hi>Trent</hi> and <hi>Tiber,</hi>
+                     </l>
+                     <l>From <hi>Powder Traitors</hi> bloodie <hi>Briber,</hi>
+                     </l>
+                     <l>Whose HOLINESSE, is <hi>Hollownesse;</hi>
+                     </l>
+                     <l>Whose <hi>Synagogue,</hi> is Sinners Wrack;</l>
+                     <l>Whose <hi>Faith,</hi> is FAVX &amp; RAVAILLIAC</l>
+                     <l>Whose <hi>Deeds</hi> &amp; <hi>Doctrine,</hi> Wickednesse.</l>
+                  </lg>
+                  <lg>
+                     <head>16</head>
+                     <l>O, Where is then <hi>The Holy Flocke!</hi>
+                     </l>
+                     <l>Call'd in one <hi>Hope,</hi> built on one <hi>Rock,</hi>
+                     </l>
+                     <l>Into one <hi>Faith</hi> incorporing;</l>
+                     <l>Thorough one <hi>Baptisme,</hi> by one <hi>Word,</hi>
+                     </l>
+                     <l>Vnder one <hi>Father (God</hi> and <hi>Lord</hi>)</l>
+                     <l>One onely <hi>Prophet, Priest</hi> and <hi>King.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>17</head>
+                     <l>There, there (as <hi>Children</hi> of one <hi>Mother</hi>)</l>
+                     <l>They succour and support each other,</l>
+                     <l>In <hi>Vnion,</hi> and in mutuall <hi>Charitie;</hi>
+                     </l>
+                     <l>All making but one Body, being</l>
+                     <l>All of <hi>One Minde,</hi> in One agreeing:</l>
+                     <l>Bound by <hi>One Bond of Peace, and Verity.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="125" facs="tcp:185188:27"/>
+                     <head>18</head>
+                     <l>O, can Wee (wretched, witched Elues)</l>
+                     <l>Can Wee, Wee Many, boast our Selues</l>
+                     <l>
+                        <hi>One Bread, one Body (mystick-wise);</hi>
+                     </l>
+                     <l>And say that Wee are daily fed</l>
+                     <l>In common with one <hi>Drinke</hi> and <hi>Bread,</hi>
+                     </l>
+                     <l>Amid our Many Enmities?</l>
+                  </lg>
+                  <lg>
+                     <head>19</head>
+                     <l>Alas! Where are those <hi>Saincts</hi> becomne.</l>
+                     <l>Worthy the style of <hi>Christendome;</hi>
+                     </l>
+                     <l>From SIN'S <hi>Dominion</hi> inly freed;</l>
+                     <l>Vessells of Honor, full of <hi>Grace,</hi>
+                     </l>
+                     <l>Abounding in <hi>good-Workes</hi> apace?</l>
+                     <l>None now good Thought hath; lesse good <hi>Deed.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>20</head>
+                     <l>Nothing but false EQVIVOCATION:</l>
+                     <l>Nothing but wilfull <hi>Obduration:</hi>
+                     </l>
+                     <l>Nothing but <hi>Error</hi> and <hi>Disorder:</hi>
+                     </l>
+                     <l>Nothing but <hi>Pride</hi> and <hi>Insolence:</hi>
+                     </l>
+                     <l>Nothing but impious <hi>Impudence:</hi>
+                     </l>
+                     <l>Nothing but <hi>Treason, Theft,</hi> &amp; <hi>Murder.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="126" facs="tcp:185188:28"/>
+                     <head>21</head>
+                     <l>
+                        <hi>Contempt</hi> of GOD and of all <hi>Good,</hi>
+                     </l>
+                     <l>
+                        <hi>Rape, Riot, Incest, Bribery, Blood,</hi>
+                     </l>
+                     <l>
+                        <hi>Periurie, Plotting, all Impietie,</hi>
+                     </l>
+                     <l>With more then brutest <hi>Brutishnesse,</hi>
+                     </l>
+                     <l>This more-than-<hi>Iron-Age</hi> possesse:</l>
+                     <l>No <hi>Loue,</hi> no <hi>Friendship,</hi> no <hi>Societie.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>22</head>
+                     <l>
+                        <hi>Court, Citie, Countrey,</hi> Euery Sort</l>
+                     <l>Of either Sex, make Sinne a Sport</l>
+                     <l>
+                        <hi>(Pride, Painting, Poys'ning, Cous'ning, Whoring);</hi>
+                     </l>
+                     <l>In <hi>Sloth,</hi> or <hi>Surfeit,</hi> euer-drown'd;</l>
+                     <l>To <hi>Bacchus,</hi> or <hi>Tobacco</hi> bound;</l>
+                     <l>With <hi>swearing, flaring, stabbing, roaring.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>23</head>
+                     <l>
+                        <hi>Wrath, Enuie, Sclander,</hi> and <hi>Suspicion,</hi>
+                     </l>
+                     <l>
+                        <hi>Fraude, Rancour, Rapine,</hi> and <hi>Ambition,</hi>
+                     </l>
+                     <l>With <hi>Blasphemies,</hi> all ouer-spread:</l>
+                     <l>Th'old <hi>Christians</hi> Badge, bright <hi>Charitie</hi>
+                     </l>
+                     <l>(Most frequent then; Now Raritie,</l>
+                     <l>Is, now-adayes, not downe, but Dead.</l>
+                  </lg>
+                  <lg>
+                     <pb n="127" facs="tcp:185188:28"/>
+                     <head>24</head>
+                     <l>We are so Punctual and Precise</l>
+                     <l>In <hi>Doctrine (Pharasaik-wise)</hi>
+                     </l>
+                     <l>To seem (at least) the most RELIGIOVS,</l>
+                     <l>That true RELIGION we deforme,</l>
+                     <l>While to our Phant'sies we reforme</l>
+                     <l>Shadowes, and not <hi>our Selues,</hi> litigious.</l>
+                  </lg>
+                  <lg>
+                     <head>25</head>
+                     <l>RELIGION! O, Thou Life of Life!</l>
+                     <l>How Wordlings, that profane thee rife,</l>
+                     <l>Can wrest thee to their Appetites!</l>
+                     <l>How Princes, who Thy Power defie,</l>
+                     <l>Pretend thee, for their <hi>Tyranny;</hi>
+                     </l>
+                     <l>And People, for their false <hi>Delights!</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>26</head>
+                     <l>Vnder Thy sacred Name, all-ouer,</l>
+                     <l>All Vicious all their Vices couer:</l>
+                     <l>The <hi>Violent,</hi> their <hi>Violence:</hi>
+                     </l>
+                     <l>The <hi>Proud,</hi> their <hi>Pride:</hi> the <hi>False</hi> their <hi>Fraud:</hi>
+                     </l>
+                     <l>The <hi>Theese</hi> his <hi>Theft:</hi> her <hi>Filth</hi> the <hi>Baud:</hi>
+                     </l>
+                     <l>The <hi>Impudent,</hi> their <hi>Impudence.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="128" facs="tcp:185188:29"/>
+                     <head>24</head>
+                     <l>
+                        <hi>Ambition,</hi> vnder Thee, aspires:</l>
+                     <l>
+                        <hi>Auarice,</hi> vnder Thee, desires:</l>
+                     <l>
+                        <hi>Sloath,</hi> vnder Thee, her Ease assumes:</l>
+                     <l>
+                        <hi>Luxe,</hi> vnder Thee, all ouer-flowes:</l>
+                     <l>
+                        <hi>Wrath,</hi> vnder Thee, outragious growes:</l>
+                     <l>
+                        <hi>All Euill,</hi> vnder Thee, presumes.</l>
+                  </lg>
+                  <lg>
+                     <head>28</head>
+                     <l>RELIGION, yerst so venerable,</l>
+                     <l>Th' art now-adayes but made a Fable;</l>
+                     <l>
+                        <hi>A holy Maske</hi> on <hi>Follies</hi> Browe,</l>
+                     <l>Where vnder lyes <hi>Dissimulation,</hi>
+                     </l>
+                     <l>Lined with all <hi>Abhomination:</hi>
+                     </l>
+                     <l>Sacred RELIGION, Where art Thou?</l>
+                  </lg>
+                  <lg>
+                     <head>29</head>
+                     <l>Not in the <hi>Church,</hi> with <hi>Simonie:</hi>
+                     </l>
+                     <l>Nor on the <hi>Bench,</hi> with <hi>Briberie:</hi>
+                     </l>
+                     <l>Nor in the <hi>Court,</hi> with <hi>Machiauell:</hi>
+                     </l>
+                     <l>Nor in the <hi>Citie,</hi> with <hi>Deceits:</hi>
+                     </l>
+                     <l>Nor in the <hi>Countrie,</hi> with <hi>Debates:</hi>
+                     </l>
+                     <l>For, What hath <hi>Heauen</hi> to doe with <hi>Hell?</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="129" facs="tcp:185188:29"/>
+                     <head>30</head>
+                     <l>Sith whatsoeuer Showe we make</l>
+                     <l>(For Profit or Promotions sake)</l>
+                     <l>What-euer Colour we put-on;</l>
+                     <l>Where, <hi>Faith</hi> no other Fruits affords,</l>
+                     <l>But euill-<hi>works</hi> (though ciuill words)</l>
+                     <l>Indeed is no RELIGION.</l>
+                  </lg>
+                  <lg>
+                     <head>31</head>
+                     <l>Reuerend RELIGION, Where's the heart</l>
+                     <l>That entertaines thee as thou art,</l>
+                     <l>Sincerely, for Thine owne respect;</l>
+                     <l>Where is the Minde, Where is the Man,</l>
+                     <l>May right be call'd a <hi>Christian;</hi>
+                     </l>
+                     <l>Not formall, but in true effect?</l>
+                  </lg>
+                  <lg>
+                     <head>32</head>
+                     <l>Who fixing all his <hi>Faith</hi> and <hi>Hope</hi>
+                     </l>
+                     <l>On GOD alone, from sacred Scope</l>
+                     <l>Of his pure Statutes will nou stray:</l>
+                     <l>Who comes in <hi>Zeale</hi> and <hi>Humblenesse,</hi>
+                     </l>
+                     <l>With true and heartie <hi>Singlenesse,</hi>
+                     </l>
+                     <l>Willing to walke the perfect Way:</l>
+                  </lg>
+                  <lg>
+                     <pb n="130" facs="tcp:185188:30"/>
+                     <head>33</head>
+                     <l>Who loues, with all his Soule and Minde,</l>
+                     <l>Almightie GOD, All-Wise, All-Kinde,</l>
+                     <l>All-whole, All-Holy, All-sufficing:</l>
+                     <l>Who but One onely GOD adores</l>
+                     <l>(Though <hi>Tyrants</hi> rage, and <hi>Sathan</hi> roares)</l>
+                     <l>Without digressing, or disguising:</l>
+                  </lg>
+                  <lg>
+                     <head>34</head>
+                     <l>Who GOD's due <hi>Honour</hi> hath not giuen</l>
+                     <l>To Other things, in Earth or Heauen;</l>
+                     <l>But bow'd and vow'd to Him alone;</l>
+                     <l>Him onely seru'd with filial Awe,</l>
+                     <l>Pleas'd and delighted in his Lawe,</l>
+                     <l>Discoursing Day and Night thereon;</l>
+                  </lg>
+                  <lg>
+                     <head>35</head>
+                     <l>Nor, not for Forme, or Fashion sake,</l>
+                     <l>Or, for a Time, a Showe to make,</l>
+                     <l>Others the better to beguile:</l>
+                     <l>Nor it, in Iest, to wrest or cite;</l>
+                     <l>But in his heart it deep to write,</l>
+                     <l>And worke it with his hands the-while;</l>
+                  </lg>
+                  <lg>
+                     <pb n="131" facs="tcp:185188:30"/>
+                     <head>36</head>
+                     <l>Louing his neighbour as him-Selfe,</l>
+                     <l>Sharing to him his Power, his Pelfe,</l>
+                     <l>His Counsailes, Comforts, Coates, and Cates:</l>
+                     <l>Dooing in all things to his Brother,</l>
+                     <l>But as Him-selfe would wish from Other,</l>
+                     <l>Not Offring Other what Hee hates:</l>
+                  </lg>
+                  <lg>
+                     <head>37</head>
+                     <l>Whose Heart, inclin'd as doth behooue-it,</l>
+                     <l>Vnlawfully doth Nothing couet</l>
+                     <l>(To Any an offence to offer):</l>
+                     <l>But, iust and gentle towards all,</l>
+                     <l>Would rather (vnto great, or small)</l>
+                     <l>Than doe one Wrong, an hundred suffer:</l>
+                  </lg>
+                  <lg>
+                     <head>38</head>
+                     <l>Not thirsting Others Land, or Life;</l>
+                     <l>Nor neighing after Maide or Wife;</l>
+                     <l>Nor ayming any Iniury;</l>
+                     <l>Neither of polling, nor of pilling,</l>
+                     <l>Neither of cursing, nor of killing,</l>
+                     <l>Neither of Fraud, nor Forgerie;</l>
+                  </lg>
+                  <lg>
+                     <pb n="132" facs="tcp:185188:31"/>
+                     <head>39</head>
+                     <l>But will confesse, if he offend,</l>
+                     <l>Relent, <hi>Repent,</hi> and soone amend,</l>
+                     <l>And timely tender Satisfaction.</l>
+                     <l>Sure His RELIGION is not fayned,</l>
+                     <l>Who doth and hath him Thus demeaned;</l>
+                     <l>Ay deadly hating <hi>Euill-action.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>40</head>
+                     <l>Therefore, O! Vassalls of the Diuell,</l>
+                     <l>That cannot, will not, cease from Euill,</l>
+                     <l>Vessells of <hi>Wrath</hi> and <hi>Reprobation;</hi>
+                     </l>
+                     <l>Presume no longer Now to shrowd</l>
+                     <l>Vnder RELIGION's sacred Clowd</l>
+                     <l>Your Manifold <hi>Abhomination.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>41</head>
+                     <l>If, But to <hi>seem good,</hi> goodly seem;</l>
+                     <l>To <hi>be good,</hi> better farre esteem:</l>
+                     <l>Why <hi>seem</hi> you what <hi>to be</hi> you care not?</l>
+                     <l>If To <hi>Seem euill,</hi> be amisse;</l>
+                     <l>Sure, <hi>To be euill,</hi> worse it is:</l>
+                     <l>Why <hi>be you</hi> what <hi>To seem</hi> you dare not?</l>
+                     <l>
+                        <hi>Be,</hi> as you <hi>seem;</hi> or <hi>seem</hi> the Same</l>
+                     <l>You <hi>be:</hi> to free RELIGION's Blame.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:185188:31"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:185188:32"/>
+                  <pb facs="tcp:185188:32"/>
+                  <p>A GLIMSE OF <hi>HEAVENLY IOYES:</hi> Or <hi>New</hi> HIERVSALEM. In <hi>An old Hymne</hi> extracted <hi>from</hi> The most Diuine <hi>S<seg rend="sup">t</seg>. AVGVSTINE.</hi>
+                  </p>
+               </div>
+               <div type="dedicatory_verse_or_poem">
+                  <pb facs="tcp:185188:33"/>
+                  <pb facs="tcp:185188:33"/>
+                  <head>To the Worthy Friend of Worthiness S<seg rend="sup">r</seg>. PETER MANVVOOD, Knight of the Hon<seg rend="sup">bl</seg>. Order of The Bath.</head>
+                  <lg>
+                     <l>To register, to After-Times,</l>
+                     <l>Your noble Fauour to My Rimes;</l>
+                     <l>Your loue to Vertue, Learning, Arts;</l>
+                     <l>Your Bounty towards Worthy Parts;</l>
+                     <l>Your Pitie; and your pious Zeale</l>
+                     <l>To GOD, to Church, to Common-weale;</l>
+                     <l>Your Loyaltie, in euery kinde;</l>
+                     <l>The Honour of your Humble Minde:</l>
+                     <l>All, all my MANWOOD to rehearse,</l>
+                     <l>Merits a <hi>Volume,</hi> not a <hi>Verse.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>But, poore diuided I (that owe,</l>
+                     <l>To many, Much; as many knowe;</l>
+                     <l>And fame would giue Content to Each,</l>
+                     <l>So far-forth as my Stocke will reach)</l>
+                     <l>Vnable (after your Desart)</l>
+                     <l>To render All, must tender Part,</l>
+                     <pb facs="tcp:185188:34"/>
+                     <l>To testifie my Thankfull-Thought,</l>
+                     <l>(But as I could; not as I ought)</l>
+                     <l>And what my Weakenes cannot pay,</l>
+                     <l>Th' AL-MIGHTIE-most I humbly pray</l>
+                     <l>To guerdon with a <hi>Diadem,</hi>
+                     </l>
+                     <l>Within His NEW-IERVSALEM.</l>
+                  </lg>
+                  <closer>
+                     <signed>
+                        <hi>Yours</hi> much Obliged, <hi>Iosuah Slyvester.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb n="137" facs="tcp:185188:34"/>
+                  <head>
+                     <hi>New</hi> HIERVSALEM.</head>
+                  <l>MY Heart (as <hi>Hart</hi> for Water) thirsts</l>
+                  <l>For Life's eternall Fount:</l>
+                  <l>My Soule, my Bodies Prisoner, longs,</l>
+                  <l>From Prison free, to mount;</l>
+                  <l>Sighes, sues, puresus, poore Exile heer,</l>
+                  <l>Her Country to recouer;</l>
+                  <l>Too-abiect, subiect to Disgrace,</l>
+                  <l>And too-too-tryumpht-ouer.</l>
+                  <l>¶ She seemes to see the the Glory now,</l>
+                  <l>Which, when she sinn'd, shee lost:</l>
+                  <l>An instant III, of Good for-gone</l>
+                  <l>Augments the Memory most.</l>
+                  <l>¶ But, of celestiall <hi>Soueraine Blisse,</hi>
+                  </l>
+                  <l>Who can set-forth the Solace!</l>
+                  <l>Where stands, of euer-liuing Stones,</l>
+                  <l>An euer-lasting Palace;</l>
+                  <l>The lofty Roofes and stately Roomes,</l>
+                  <l>Reflecting golden beames:</l>
+                  <l>The Gates and goodly Walls about,</l>
+                  <l>Of rich and orient Gemmes:</l>
+                  <pb n="138" facs="tcp:185188:35"/>
+                  <l>The Streets, all pav'd with purest Gold,</l>
+                  <l>As smooth as any Glasse is:</l>
+                  <l>No Foile, no Soile, no Sorrow there;</l>
+                  <l>No Sicknes thither passes.</l>
+                  <l>No Winter's Frost, no Summer's Toast,</l>
+                  <l>Doth there Distemper bring:</l>
+                  <l>But Flowres perpetuall flowring there,</l>
+                  <l>Make there perpetuall Spring.</l>
+                  <l>There, <hi>Balsame, Saffron, Lillie, Rose,</hi>
+                  </l>
+                  <l>Doe sweat, sent, shine, and blush:</l>
+                  <l>There, Mead, and Field spring, spire, and yeeld;</l>
+                  <l>Rills, Milke, and Hony gush:</l>
+                  <l>There <hi>Aromaticks</hi> breath-about</l>
+                  <l>Their odoriferous Aire:</l>
+                  <l>There, euer dangle dainty Fruits</l>
+                  <l>On Trees still blooming faire:</l>
+                  <l>There, neuer Moone doth waxe or wane,</l>
+                  <l>Nor Sun, nor Starres decline;</l>
+                  <l>But There, the LAMB (the Light of Lights)</l>
+                  <l>Eternally dooth shine.</l>
+                  <l>There, Time hath no alternate Term;</l>
+                  <l>No Night, but euer Day;</l>
+                  <l>For, There, the <hi>Saints</hi> are (as the Sun)</l>
+                  <l>Most Bright, in white Aray;</l>
+                  <pb n="139" facs="tcp:185188:35"/>
+                  <l>Triumphant; after Conquest, <hi>crow'nd,</hi>
+                  </l>
+                  <l>In mutuall Iov they greet;</l>
+                  <l>Recounting safe the Battels fought,</l>
+                  <l>Their Foes now vnder-feet;</l>
+                  <l>Pure, purifi'd from dregs and drosse;</l>
+                  <l>From fleshly Combats freed:</l>
+                  <l>Their Flesh, made spirituall, with the Spirit,</l>
+                  <l>In One self-same agreed:</l>
+                  <l>In perfect and perpetuall <hi>Peace;</hi>
+                  </l>
+                  <l>Subiect no more to sinning:</l>
+                  <l>Obnoxious nor to Change, nor Chance;</l>
+                  <l>Return'd to their <hi>Beginning.</hi>
+                  </l>
+                  <l>And Face to Face for euer see</l>
+                  <l>All <hi>Beauties Glory</hi> bright,</l>
+                  <l>Possessing sempiternall Ioyes,</l>
+                  <l>In that supernall Sight</l>
+                  <l>(The Sight <hi>of GOD,</hi> the <hi>Soueraign Good,</hi>
+                  </l>
+                  <l>The Sunne of <hi>Happinesse,</hi>
+                  </l>
+                  <l>Such as no heart can heer comprise,</l>
+                  <l>Nor any <hi>Art</hi> expresse.)</l>
+                  <l>Installed in a <hi>Bliss full</hi> State</l>
+                  <l>
+                     <hi>Of Glory,</hi> still <hi>The Same;</hi>
+                  </l>
+                  <l>As sure, as pure, from Faile or Fall,</l>
+                  <l>From Sorrow, Sin, and Shame.</l>
+                  <pb n="140" facs="tcp:185188:36"/>
+                  <l>All ioyous, liuely, louely, bright,</l>
+                  <l>To no Misshap exposed:</l>
+                  <l>No Danger, Death, Disease, nor Age;</l>
+                  <l>In Health and Youth reposed.</l>
+                  <l>Hencefoorth, for all <hi>Eternitie,</hi>
+                  </l>
+                  <l>They flourish fresh and green:</l>
+                  <l>For, <hi>Death</hi> is dead, <hi>Time</hi> termined,</l>
+                  <l>
+                     <hi>Corruption</hi> conquer'd cleen.</l>
+                  <l>Now know they Him, that knoweth All.</l>
+                  <l>And in beholding Him</l>
+                  <l>They All behold (as in a Glasse)</l>
+                  <l>Before them bright and brim.</l>
+                  <l>In Vnity of minde combin'd,</l>
+                  <l>One very thing they Will;</l>
+                  <l>And euer Constant, neuer crosse,</l>
+                  <l>One and the same they Nill.</l>
+                  <l>As heer in <hi>Grace,</hi> in <hi>Glory</hi> there,</l>
+                  <l>Though diuersly, they shine:</l>
+                  <l>
+                     <hi>Loue</hi> equall's All; Each louing All</l>
+                  <l>With mutuall Loue diuine.</l>
+                  <l>So that the Good of Euery-one</l>
+                  <l>Becomes the Good of All.</l>
+                  <l>Where lies the Body, lightly there</l>
+                  <l>Will Eagles flock and fall.</l>
+                  <pb n="141" facs="tcp:185188:36"/>
+                  <l>Where-with, with Angels, <hi>Saincted-Soules</hi>
+                  </l>
+                  <l>Are aye refresht and fed</l>
+                  <l>(For, Either Countrie's Burgesses</l>
+                  <l>Are nourisht with One Bread)</l>
+                  <l>And euer Fain, though euer full;</l>
+                  <l>Wishing but What they haue:</l>
+                  <l>Not sated with Satietie;</l>
+                  <l>Nor needing more to craue:</l>
+                  <l>Desiring still, their fill they eate;</l>
+                  <l>And eating, still desire.</l>
+                  <l>Still, new melodious Songs they sound</l>
+                  <l>With Hea'uns harmonious Quire;</l>
+                  <l>And Organs Worthy (for His Worth</l>
+                  <l>Through Whom they ouer-came)</l>
+                  <l>Ring <hi>Holy, Holy, Holy, Prayse</hi>
+                  </l>
+                  <l>To HIS most HOLY <hi>Name.</hi>
+                  </l>
+                  <l>¶ O happie, happie, happie, Soules,</l>
+                  <l>That see Heau'ns <hi>King,</hi> aboue;</l>
+                  <l>And vnderneath-them Sun and Moon,</l>
+                  <l>And all the World to moue!</l>
+                  <l>¶ <hi>O Christ, victorious Lord of Hoasts,</hi>
+                  </l>
+                  <l>
+                     <hi>So lead my Soule and Heart.</hi>
+                  </l>
+                  <l>
+                     <hi>That, hauing fought, as heer I ought,</hi>
+                  </l>
+                  <l>
+                     <hi>I may haue there a Part</hi>
+                  </l>
+                  <pb n="142" facs="tcp:185188:37"/>
+                  <l>
+                     <hi>Among that Blessed Hierarchie,</hi>
+                  </l>
+                  <l>
+                     <hi>In Happinesse supreme,</hi>
+                  </l>
+                  <l>
+                     <hi>A free and fellow-Citizen</hi>
+                  </l>
+                  <l>
+                     <hi>Of</hi> NEVV-IERVSALEM.</l>
+                  <l>
+                     <hi>Vouchsafe me Grace, to run my Race,</hi>
+                  </l>
+                  <l>
+                     <hi>And strenuously to striue</hi>
+                  </l>
+                  <l>
+                     <hi>Vnto the End, that in the End</hi>
+                  </l>
+                  <l>
+                     <hi>I may the Crowne atchiue:</hi>
+                  </l>
+                  <l>
+                     <hi>Not for My Work, but for Thy Worth;</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Mercy, not My Merit:</hi>
+                  </l>
+                  <l>
+                     <hi>So Laud and Prayse be sung alwayes</hi>
+                  </l>
+                  <l>TO FATHER, SONNE, &amp; SPIRIT.</l>
+                  <trailer>TRIN-VNI DEO <hi>Creatori, Redemptori, Directori</hi> MEO, GLORIA In Secula-Seculorum, AMEN.</trailer>
+                  <pb facs="tcp:185188:37"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:185188:38"/>
+                  <pb facs="tcp:185188:38"/>
+                  <p>AVTO-MACHIA: <hi>Or</hi> THE SELF-CONFLICT of A CHRISTIAN. from <hi>THE LATIN of</hi> M<seg rend="sup">r</seg>. GEORGE GOODVVIN, <hi>Translated</hi> &amp; <hi>Dedicated</hi> To THE HONORABLE (late) <hi>La: MARY NEVIL.</hi> By IOSVAH SYLVESTER.</p>
+               </div>
+               <div type="dedicatory_verse_or_poem">
+                  <pb facs="tcp:185188:39"/>
+                  <head>TO The truely-Honorable <hi>M<seg rend="sup">ris</seg>. Cecilie Nevil,</hi> Anagramma Italiano. <hi>Cecilia Nevila.</hi> E Vitina al Ciel.</head>
+                  <epigraph>
+                     <q>
+                        <l>
+                           <hi>Heav'ns Neighbour is</hi> your Anagram:</l>
+                        <l>Your Noble Graces proue the same.</l>
+                     </q>
+                  </epigraph>
+                  <l>FAire <hi>Heire</hi> of All Your MOTHERS <hi>Good</hi>
+                  </l>
+                  <l>(Wit, Vertue, Beautie, Bountie, Blood)</l>
+                  <l>Among the <hi>Honors</hi> that accrue,</l>
+                  <l>By Her Decease divolv'd to You,</l>
+                  <l>Mine humble <hi>Service</hi> and <hi>This Song,</hi>
+                  </l>
+                  <l>(How little) doth not least belong</l>
+                  <l>(In <hi>Little</hi> lyes a <hi>mickle</hi> Right:</l>
+                  <l>As in a <hi>Million</hi> In a <hi>Mite</hi>)</l>
+                  <l>To her <hi>Memorial,</hi> and Your <hi>Merit,</hi>
+                  </l>
+                  <l>True <hi>Mirror</hi> of MINERVA'S <hi>Spirit.</hi>
+                  </l>
+                  <l>Aceept it therefore, <hi>double</hi> Yours;</l>
+                  <l>By Her Donation, and by Ours,</l>
+                  <closer>
+                     <signed>
+                        <hi>Humbly deuoted</hi> (as most-bound) <hi>To Both Your Noble Families,</hi> IOSVAH SYLVESTER.</signed>
+                  </closer>
+               </div>
+               <div type="dedicatory_verse_or_poem">
+                  <pb facs="tcp:185188:39"/>
+                  <head>TO The Right Noble, Vertuous &amp; learned <hi>LADIE,</hi> The Ladie MARY <hi>Nevil.</hi>
+                  </head>
+                  <epigraph>
+                     <q>
+                        <l>Maria Nevila. </l>
+                        <l>
+                           <hi>Alia Minerva.</hi>
+                        </l>
+                     </q>
+                  </epigraph>
+                  <lg>
+                     <l>MAdame, Your loue to Learning, and the Learned,</l>
+                     <l>(In such a time, so fall of Arts neglect)</l>
+                     <l>Right worthily to Your rare Self hath earned</l>
+                     <l>The Loue of Learning, and the learned Sect:</l>
+                     <l>Whereby, Your Name already is eterned</l>
+                     <l>In <hi>MEMORIES</hi> faire <hi>Temple,</hi> high erect:</l>
+                     <l>And there deuoutiv at Your Vertues Shrine,</l>
+                     <l>I humbly offer this poore <hi>MITE</hi> of <hi>Mine;</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Too small a <hi>Present</hi> to so great a <hi>GRACE;</hi>
+                     </l>
+                     <l>And too-vnworthy of Your <hi>Worthinesse:</hi>
+                     </l>
+                     <l>Saue that the <hi>Matter</hi> so exceeds the Masse,</l>
+                     <l>That oft (perhaps) a greater may be lesse:</l>
+                     <l>For, You may see, within <hi>This little Glasse,</hi>
+                     </l>
+                     <l>The <hi>LITTLE-WORLD'S</hi> great-little-Mindednes:</l>
+                     <l>
+                        <hi>MAN'S</hi> Strife with <hi>MAN;</hi> Our Flesh &amp; Spirit in <hi>Duel:</hi>
+                     </l>
+                     <l>Couragious Cowards, too-self-kindly-Cruel.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:185188:40"/>
+                     <l>Vouchsafe t'accept then This small <hi>New-yeeres-Gift,</hi>
+                     </l>
+                     <l>With humble Vowes of a dis-astred Muse,</l>
+                     <l>Which lauishly hath sown her <hi>Seeds</hi> of Thrife</l>
+                     <l>So high and dry, that yet no <hi>Fruit</hi> ensues.</l>
+                     <l>Else need Shee not haue made so hard a Shift;</l>
+                     <l>Nor this small Gift so greatly to excuse.</l>
+                     <l>But sith, as yet, Shee cannot what Shee would;</l>
+                     <l>
+                        <hi>Madame,</hi> accept her Zeal, &amp; what Shee could.</l>
+                  </lg>
+                  <closer>
+                     <signed>To Your Hono<seg rend="sup">bl</seg>. Vertues <hi>most deuoted, IOS. SYL.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb n="147" facs="tcp:185188:40"/>
+                  <head>
+                     <hi>AVTO-MACHIA.</hi> or Self-Ciuil-Warr.</head>
+                  <lg>
+                     <l>
+                        <hi>I</hi> Sing not <hi>PRIAM,</hi> nor the Siege of <hi>TROY:</hi>
+                     </l>
+                     <l>Nor <hi>Agamemnon</hi>'s Iarr with <hi>Thetis</hi> Ioy:</l>
+                     <l>I sing not heer <hi>AENEAS</hi> stormfull Fate;</l>
+                     <l>Queene <hi>Dido's</hi> loue, nor Goddesse <hi>Iuno's</hi> hate:</l>
+                     <l>I sing not <hi>CAESAR,</hi> nor his Sonne-in-law;</l>
+                     <l>Whose ciuill Rage <hi>Rome</hi> and <hi>Pharsalia</hi> saw.</l>
+                     <l>I sing my <hi>SELF;</hi> my <hi>C uil-Warrs</hi> within;</l>
+                     <l>The <hi>Victories</hi> I howrely lose and win;</l>
+                     <l>The dayly <hi>Duel,</hi> the continuall Strife,</l>
+                     <l>The <hi>Warr</hi> that ends not, till I end my life.</l>
+                  </lg>
+                  <lg>
+                     <l>And yet, not Mine alone, not onely Mine,</l>
+                     <l>But euery-One's that vnder th'honor'd Signe</l>
+                     <l>Of <hi>CHRIST</hi> his Standard, shal his Name enroule,</l>
+                     <l>With holy Vowes of Body and of Soule.</l>
+                  </lg>
+                  <lg>
+                     <l>Vouchsafe, O <hi>Father,</hi> succour from aboue;</l>
+                     <l>Courage of Soule, comfort of he us'nly Loue:</l>
+                     <l>Triumphant Captaine, Glorious <hi>General,</hi>
+                     </l>
+                     <l>Furnish me Armes from thine owne <hi>Arcenall:</hi>
+                     </l>
+                     <l>O Sucred Spirit, My spirit's assistant bee;</l>
+                     <l>And in <hi>This Conflict,</hi> make Mee conquer <hi>Mee.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="148" facs="tcp:185188:41"/>
+                     <l>VERTVE I loue, I leane to <hi>Vice:</hi> I blame</l>
+                     <l>This wicked World, yet I imbrace the same.</l>
+                     <l>I climbe to Heav'n, I cleaue to Earth: I both</l>
+                     <l>Too-loue my Self, and yet my Self I loath.</l>
+                     <l>Peace-les, I Peace pursue, in <hi>Ciuill Warr,</hi>
+                     </l>
+                     <l>With and against my Self, I ioyne, I iarr:</l>
+                     <l>I burn, I freeze; I fall downe, I stand fast:</l>
+                     <l>Well-ill I fare; I lory, though disgrac't:</l>
+                     <l>I die aliue: I triumph, put to flight;</l>
+                     <l>I feed on Cares, in Teares I take delight:</l>
+                     <l>My Slaue (base-braue) I serue; I roame at large,</l>
+                     <l>In libertie, yet lie in Gaolers Charge:</l>
+                     <l>I strike, and stroak my Self: I, kindly-keen,</l>
+                     <l>Work mine own Woe, rub my Gal, rouze my Spleen.</l>
+                     <l>Oft, in my Sleep, to see rare Dreams I dreame;</l>
+                     <l>Waking, mine Eye doth scarce discerne a Beame.</l>
+                     <l>My Minde's strange <hi>Megrim</hi> whirling to and fro,</l>
+                     <l>Now thrusts me hither, thither then doth throw.</l>
+                     <l>In diuers <hi>Factions</hi> I my Self diuide;</l>
+                     <l>And All I trie, and flie to euery Side.</l>
+                     <l>What I but now desir'd, I now disdain:</l>
+                     <l>What (late) I waigh'd not, now I wish again:</l>
+                     <l>To-Day, to-Morrow; This, That, Now, Anon,</l>
+                     <l>All, Nothing, craue I; Euer Neuer-one.</l>
+                  </lg>
+                  <lg>
+                     <pb n="149" facs="tcp:185188:41"/>
+                     <l>Dull Combatant, vnready for the Field,</l>
+                     <l>Too-tardie take I (after wounds) my Shield.</l>
+                     <l>Still hurried headlong to vnlawfull things,</l>
+                     <l>Downe-dragging <hi>Vice</hi> Me eas'ly down-ward dings:</l>
+                     <l>But, sacred <hi>Vertue</hi> climbes so hard and hie,</l>
+                     <l>That hardly can I her steeps steps descrie.</l>
+                  </lg>
+                  <lg>
+                     <l>Both <hi>Right</hi> and <hi>Wrong</hi> with Mee indifferent are:</l>
+                     <l>My <hi>Lust</hi> is <hi>Lawe:</hi> what I desire, I dare.</l>
+                     <l>(Is there so foule a <hi>Fault,</hi> so fond a Fact,</l>
+                     <l>Which, Folly asking Furie dares not act?)</l>
+                     <l>But, Art-les, heart-les, in <hi>Religion's</hi> Cause</l>
+                     <l>(To doo her Lessons, and defend her Lawes)</l>
+                     <l>The All-proof Armour of My GOD I lose,</l>
+                     <l>Fly from my Charge, and yeeld it to his Foes,</l>
+                  </lg>
+                  <lg>
+                     <l>Guiltie of Sinn, Sinn's Punishment I shun,</l>
+                     <l>But not the Guilt, before th' Offence be don</l>
+                     <l>(For, How could shunning of a Sinn, ensew</l>
+                     <l>To be occasion of another New?)</l>
+                     <l>Oft and again at the same stone I trip,</l>
+                     <l>As if I learn'd, by falling, not to slip.</l>
+                     <l>Aliue, I perish, and my Self vndoo;</l>
+                     <l>Mine eyes (Self-wise) Witting and Willing too.</l>
+                  </lg>
+                  <lg>
+                     <l>Sick, to my Self I run for my Relief;</l>
+                     <l>So, Sicker of my <hi>Physicke,</hi> than my <hi>Grief:</hi>
+                     </l>
+                     <pb n="150" facs="tcp:185188:42"/>
+                     <l>For, while I seeke my swelting Thirst to swage,</l>
+                     <l>Another Thirst more ragingly doth rage:</l>
+                     <l>While, burnt to death, to coole me I desire;</l>
+                     <l>With Flames my Flames; with Sulphur, quench I Fire:</l>
+                     <l>While that I striue my swelling Waues to stop,</l>
+                     <l>More stormily they toste aboue my top.</l>
+                     <l>Thus am I cur'd, This is my common Ease;</l>
+                     <l>My <hi>Med'cine</hi> still, worse than my worst Disease:</l>
+                     <l>My Sores with Sores, my wounds with wounds I heal,</l>
+                     <l>While to my Self, my Self I still conceal.</l>
+                  </lg>
+                  <lg>
+                     <l>O what lewd Leagues! what Truces make I still,</l>
+                     <l>With Sin, with Sathan, and my wanton Will!</l>
+                     <l>What slight occasions doo I take to sinn!</l>
+                     <l>What silly Traines am I intrapped in!</l>
+                     <l>What idle Cloaks for Crimes! what Nets to hide</l>
+                     <l>Notorious Sinns, already long descri'd!</l>
+                     <l>I write in Ice (Windes Witnes, sign'd with Showrs)</l>
+                     <l>I will redeem my <hi>foule Life's</hi> former howrs:</l>
+                     <l>But, soone the swinge of Custome (Whirlwind-like)</l>
+                     <l>Rapting my Passion (euer Fashion-sick)</l>
+                     <l>Transports Me to the Contrary; alone,</l>
+                     <l>Faint Guard of <hi>Goodnesse:</hi> Arm-les Champion.</l>
+                  </lg>
+                  <lg>
+                     <l>My <hi>Green sick</hi> Taste doth nothing sweeter finde,</l>
+                     <l>Than what is bitter to a <hi>gracious</hi> Minde:</l>
+                     <pb n="151" facs="tcp:185188:42"/>
+                     <l>
+                        <hi>Egypt's</hi> fat Flesh pots I am longing-for:</l>
+                     <l>Th' eternall <hi>Manna</hi> I doe euen abhorre.</l>
+                     <l>World's Monarch <hi>Mammon</hi> (dropsie Mysticall)</l>
+                     <l>Cround, round-fac'd Goddesse, coyned <hi>Belial:</hi>
+                     </l>
+                     <l>
+                        <hi>Midas's</hi> Desire, the Miser's onely Trust;</l>
+                     <l>The sacred hunger of <hi>Pactolian</hi> Dust,</l>
+                     <l>Gold, Gold bewitches me, and frets accurst</l>
+                     <l>My greedy Throat with more than <hi>Dipsian</hi> Thirst.</l>
+                     <l>My minde's a Gulf whose Gaping Nought can stuff;</l>
+                     <l>My heart a Hell, that neuer hath enough:</l>
+                     <l>The more I haue I craue, and lesse content;</l>
+                     <l>In Store most Poore, in Plenty Indigent.</l>
+                     <l>For, of these Gates, how-much so-ere I cram,</l>
+                     <l>It doth not stop my Mouth, but strech the same.</l>
+                  </lg>
+                  <lg>
+                     <l>Sweet <hi>Vsurie</hi>'s Incestuous <hi>Interest,</hi>
+                     </l>
+                     <l>For Dallers, Dolours hoordeth in my Chest.</l>
+                     <l>The World's Slaue <hi>Profit,</hi> &amp; the Minde's Slut <hi>Pleasue</hi>
+                     </l>
+                     <l>(Insatiat Both, Both bound-less, Both past measure:</l>
+                     <l>This <hi>Cleopatra.</hi> That <hi>Sardanapale</hi>)</l>
+                     <l>For huge Annoyes, bring Ioyes but short and small,</l>
+                  </lg>
+                  <lg>
+                     <l>O, Miracle! begot by Heauen, in Earth</l>
+                     <l>(My Minde diuine. My Bodie brute by Birth)</l>
+                     <l>O! what a Monster am I, to depaint!</l>
+                     <l>Halfe-Friend, halfe-Fiend, halfe-Sauage, halfe a Saint;</l>
+                     <pb n="152" facs="tcp:185188:43"/>
+                     <l>High'r than my Fire doth my grosse Earth aspire:</l>
+                     <l>My raging Flesh, my retch-lesse Force doth tire,</l>
+                     <l>And (drunk with Worlds-Must, &amp; deep sunk in Sleep)</l>
+                     <l>My Spirit (the Spy, that warie Watch should keep)</l>
+                     <l>Betrayes, alas! (Woe that I trust it so)</l>
+                     <l>My Soule's deer Kingdome, to her deadly Foe.</l>
+                  </lg>
+                  <lg>
+                     <l>Through Cares <hi>Charybdis,</hi> &amp; rough Gulfs of Grief,</l>
+                     <l>Star lar-bord run I, Sailing all my Life</l>
+                     <l>On merry-sorry Seas; my Winde, my Will;</l>
+                     <l>My Ship, my Flesh; My Sense, my Pilot still.</l>
+                  </lg>
+                  <lg>
+                     <l>As in a most Seditious <hi>Common-weale,</hi>
+                     </l>
+                     <l>Within my Brest I feel my Best rebell:</l>
+                     <l>Against their Prince my furious People rise;</l>
+                     <l>Their Aw-less Prince dares his owne Lawe despise.</l>
+                     <l>Mine <hi>Eue's</hi> an Out-law: And my struggling Twins</l>
+                     <l>
+                        <hi>Iacob</hi> and <hi>Esau</hi> neuer can be friends.</l>
+                     <l>Such deadly Feud, such discord, such despight</l>
+                     <l>(Euen betweene Brethren) such continuall fight.</l>
+                  </lg>
+                  <lg>
+                     <l>What's done in Me, Another doth, not I;</l>
+                     <l>Yet both (alas!) my Guest and Enemy:</l>
+                     <l>My minde, vn-kind (suborned by my Foe)</l>
+                     <l>Indeed, within me, but not with me Tho;</l>
+                     <l>Neer, yet far-off; in fleshly Lees be-soild,</l>
+                     <l>And with the World's contagious Filth defil'd.</l>
+                  </lg>
+                  <lg>
+                     <pb n="153" facs="tcp:185188:43"/>
+                     <l>I am too-narrow for mine owne Desires;</l>
+                     <l>My Selfe denies me, what my Selfe requires:</l>
+                     <l>Fearfull I hope: carefull-secure I languish:</l>
+                     <l>Hungry too-full; Dry-Drunken; sugred Anguish;</l>
+                     <l>Wearie of Life, merry in Death; I suck</l>
+                     <l>Wine from the Pumice; Hony from the Rock.</l>
+                     <l>On Thornes my Grapes; on Garlick growes my Rose;</l>
+                     <l>From Crums my Sums; from Flint my Foūtain flowes:</l>
+                     <l>In showres of Teares, mine houres of Fears I mourne:</l>
+                     <l>My Looks to Brooks, my Beams to Streams I turne:</l>
+                     <l>Yet, in this Torrent of my Torments rife,</l>
+                     <l>I sink Annoyes, and drink the Ioyes of Life.</l>
+                  </lg>
+                  <lg>
+                     <l>Dim light, brim night; Beams wauing clowdy-cleer:</l>
+                     <l>Vnstable State, void Hope, vaine Help, far-neer:</l>
+                     <l>False-true Perswasion, Law-less Lawfulness;</l>
+                     <l>Confused Method, Milde-wilde War-like Peace:</l>
+                     <l>Disordered Order, Mournefull Meriments;</l>
+                     <l>Dark Day, Wrong way, Dull double-Diligence:</l>
+                     <l>Infamous Fame, known Error, Skil-less Skill:</l>
+                     <l>Mad Minde, rude Reason, an vnwilling Will:</l>
+                     <l>A healthie Plague, a wealthie Want, poor Treasure:</l>
+                     <l>A pleasing Torment, a Tormenting Pleasure:</l>
+                     <l>An odious Loue an vgly Beauty; base</l>
+                     <l>Reproachful Honour, a disgracefull Grace:</l>
+                     <pb n="154" facs="tcp:185188:44"/>
+                     <l>A fruit-less Fruite, A dry dis-flowred Flower:</l>
+                     <l>A feeble force, a Conquered Conquerour:</l>
+                     <l>A sickly Health, dead Life, and rest-lesse Rest,</l>
+                     <l>These are the Comforts of my Soule distrest.</l>
+                  </lg>
+                  <lg>
+                     <l>O! how I Like, Dis-like; Desire, Disdaine;</l>
+                     <l>Repell, repeal; loathe, and delight againe!</l>
+                     <l>O! What, Whom, Whether (neither Flesh nor Fish)</l>
+                     <l>How, weary of, the same againe I wish!</l>
+                     <l>I will, I nill; I nill, I will; my Minde</l>
+                     <l>Perswading This, my Mood to That inclin'd.</l>
+                     <l>My loose Affection (<hi>Proteus</hi>-like) appeares</l>
+                     <l>In euery Forme; at-once it frownes and fleeres.</l>
+                     <l>Mine ill-good Will, is vaine and variable:</l>
+                     <l>My <hi>(Hydra)</hi> Flesh, buds Heads innumerable:</l>
+                     <l>My Minde's a Maze; a Labyrinth, my Reason:</l>
+                     <l>Mine Eye (false Spy) the Doore to Phantsies Treason:</l>
+                     <l>My rebell Sense (Self-soothing) still affects</l>
+                     <l>What it should fly; What it should ply, neglects:</l>
+                     <l>My flitting Hope, with Passions Storms is tost</l>
+                     <l>But now to Heauen, anon to Hell almost:</l>
+                     <l>Concording Discord kils me; and againe,</l>
+                     <l>Discording Concord doth my Life sustaine.</l>
+                  </lg>
+                  <lg>
+                     <l>My Selfe at once I both displease and please;</l>
+                     <l>Without my Selfe, my Selfe I faine would Seaze:</l>
+                     <pb n="155" facs="tcp:185188:44"/>
+                     <l>For my too-much of Me, Me much annoyes:</l>
+                     <l>And my Selfe's Plenty, my poore Selfe destroyes:</l>
+                     <l>Who seeks Me in Me, In Me shall not finde</l>
+                     <l>Me as my Selfe: <hi>Hermaphrodite</hi> in minde,</l>
+                     <l>I am (at once) Male, Female, Neuter: yet</l>
+                     <l>What-ere I am, I am not mine, I weet:</l>
+                     <l>I am not with my selfe, as I conceiue:</l>
+                     <l>Wretch that I am, my Selfe, my Selfe deceiue:</l>
+                     <l>Vnto my Selfe, my Selfe my Selfe betray:</l>
+                     <l>I, from my selfe, banish my Selfe away:</l>
+                     <l>My Selfe agrees not with my Selfe a iot,</l>
+                     <l>Knowes not my Selfe; I haue my Selfe forgot:</l>
+                     <l>Against my Selfe, my Selfe mooue Iarres vniust:</l>
+                     <l>I trust my Selfe, and I my Selfe distrust:</l>
+                     <l>My Selfe I followe, and my Selfe I fly:</l>
+                     <l>Besides my Selfe, and in my Selfe, am I:</l>
+                     <l>My Selfe am not my Selfe, another-same;</l>
+                     <l>Vnlike my Selfe, and like my Selfe I am;</l>
+                     <l>Selfe-fond, Selfe-furious: and thus, Wayward Elfe,</l>
+                     <l>I cannot liue, with, nor with-out my Selfe.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="poem">
+                  <pb n="156" facs="tcp:185188:45"/>
+                  <head>A Cup of Consolation for the Christian in his <hi>Conflict.</hi>
+                  </head>
+                  <lg>
+                     <l>WHy, Silly Man, sick of exceeding Griefe,</l>
+                     <l>What boots it Thee, vncertain of thy Life,</l>
+                     <l>Of thy Disease to make so much adoo?</l>
+                     <l>Thou coward Souldier, and vntoward too,</l>
+                     <l>Away with Feare: defie both Death and Hell:</l>
+                     <l>Meet Armes with Armes, and Darts with Darts repell:</l>
+                     <l>So, the first On-set, in this furious Fray,</l>
+                     <l>Shall towards Heauen make thee an easie Way;</l>
+                     <l>And open wide those Gates so hardly wonne,</l>
+                     <l>Where Snowie-winged <hi>Victorie</hi> doth wunne:</l>
+                     <l>Thou must be valiant, and with Dant-less brest</l>
+                     <l>Rush through the thickest, Run vpon the best</l>
+                     <l>Of brauing Foes; and on their Flight and Foile,</l>
+                     <l>Reare noble Trophies of triumphant Spoile.</l>
+                     <l>For, This World's Prince, dark <hi>Limboe's</hi> Potentate,</l>
+                     <l>Drifts Man's Destruction, and with deadly Hate</l>
+                     <l>(Still Strife-full) labours, and by all meanes seeks</l>
+                     <l>To trouble All, and Heauen with Hell to mix.</l>
+                  </lg>
+                  <lg>
+                     <pb n="157" facs="tcp:185188:45"/>
+                     <l>Great War with it there is; great War with-out;</l>
+                     <l>With Flesh and Blood, and with the World about.</l>
+                     <l>On this Side, smiling <hi>Hope</hi> (with smoothest brow)</l>
+                     <l>False-promiseth long Peace, and Plenty too.</l>
+                     <l>On that Side, sallow <hi>Feare</hi> (with fainting breath)</l>
+                     <l>Checks those proud thoughts with Threats of War &amp; Death;</l>
+                     <l>And (weary of it Selfe) it Self distrusts,</l>
+                     <l>It Selfe destroyes, and to Confusion thrusts;</l>
+                     <l>And ignorant of it selfe's Good (yer Tryall)</l>
+                     <l>In Iealous Rage it euen betraies the loyall.</l>
+                  </lg>
+                  <lg>
+                     <l>Here, Clowd-browd <hi>Sorrow.</hi> Whirle-wind-like it hies</l>
+                     <l>Th' amated Minde to tosse and tyrannize:</l>
+                     <l>There, dimpled <hi>Ioy</hi> nimbly enringeth round</l>
+                     <l>Her gawdy Troops that stand vpon no ground;</l>
+                     <l>Whose brittle Glosse and glorie lasts and shines</l>
+                     <l>As Stubble-Fire, and Dust before the Windes.</l>
+                  </lg>
+                  <lg>
+                     <l>What should I speake of all the snarefull Wiles,</l>
+                     <l>And cunning Colours of mysterious Guiles,</l>
+                     <l>Where-with Death's Founder, and thy Life's drad Foe,</l>
+                     <l>Improuident Man-kind doth ouerthrow?</l>
+                  </lg>
+                  <lg>
+                     <l>Yet, be Couragious, yeeld not vnto Euill:</l>
+                     <l>Resist Beginnings, and defie the Diuell.</l>
+                     <l>For sure Defence amid these fell Alarms,</l>
+                     <l>Quick buckle-on these ay-victorious Arms:</l>
+                  </lg>
+                  <lg>
+                     <pb n="158" facs="tcp:185188:46"/>
+                     <l>First, gird thy Loynes with <hi>Truth;</hi> thy Bosome dresse</l>
+                     <l>In the sure Brest-plate of pure <hi>Righteousnesse:</hi>
+                     </l>
+                     <l>Put, on thy Head, the Helmet of <hi>Saluation:</hi>
+                     </l>
+                     <l>Vpon thy Feet, Shooes of the Preparation</l>
+                     <l>
+                        <hi>Of Heauen's Glad-tidings:</hi> Beare vpon thine Arme</l>
+                     <l>The Shield of <hi>Faith</hi> (Shot-free from euery harme).</l>
+                     <l>Hell's fiery Darts repell thou with the same;</l>
+                     <l>And through it's Splendor, quench their Flame with Flame</l>
+                     <l>Take in thy hand the bright two-edged-Sword</l>
+                     <l>Of GOD'S Soule-parting, Marow-piercing, <hi>Word:</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Thus compleat arm'd from GOD's owne <hi>Arcenal,</hi>
+                     </l>
+                     <l>And watching duely for his Aide to call,</l>
+                     <l>Thou without doubt shalt quickly ouer-come</l>
+                     <l>The World, the Flesh, Sin, Death, &amp; Hell (in summe).</l>
+                     <l>And so (through CHRIST, thy Captain, &amp; thy King)</l>
+                     <l>Of Sin, thy Selfe, And <hi>Sathan</hi> triumphing,</l>
+                     <l>Thou shalt (in fine,) the <hi>Happy Crowne</hi> obtaine.</l>
+                     <l>And in th' eternall Promis'd <hi>Kingdome</hi> raigne.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:185188:46"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
